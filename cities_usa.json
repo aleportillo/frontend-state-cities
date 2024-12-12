@@ -1,0 +1,8042 @@
+{
+    "AL": [
+        {
+            "value": "alexander city",
+            "label": "Alexander City"
+        },
+        {
+            "value": "andalusia",
+            "label": "Andalusia"
+        },
+        {
+            "value": "anniston",
+            "label": "Anniston"
+        },
+        {
+            "value": "athens",
+            "label": "Athens"
+        },
+        {
+            "value": "atmore",
+            "label": "Atmore"
+        },
+        {
+            "value": "auburn",
+            "label": "Auburn"
+        },
+        {
+            "value": "bessemer",
+            "label": "Bessemer"
+        },
+        {
+            "value": "birmingham",
+            "label": "Birmingham"
+        },
+        {
+            "value": "chickasaw",
+            "label": "Chickasaw"
+        },
+        {
+            "value": "clanton",
+            "label": "Clanton"
+        },
+        {
+            "value": "cullman",
+            "label": "Cullman"
+        },
+        {
+            "value": "decatur",
+            "label": "Decatur"
+        },
+        {
+            "value": "demopolis",
+            "label": "Demopolis"
+        },
+        {
+            "value": "dothan",
+            "label": "Dothan"
+        },
+        {
+            "value": "enterprise",
+            "label": "Enterprise"
+        },
+        {
+            "value": "eufaula",
+            "label": "Eufaula"
+        },
+        {
+            "value": "florence",
+            "label": "Florence"
+        },
+        {
+            "value": "fort payne",
+            "label": "Fort Payne"
+        },
+        {
+            "value": "gadsden",
+            "label": "Gadsden"
+        },
+        {
+            "value": "greenville",
+            "label": "Greenville"
+        },
+        {
+            "value": "guntersville",
+            "label": "Guntersville"
+        },
+        {
+            "value": "huntsville",
+            "label": "Huntsville"
+        },
+        {
+            "value": "jasper",
+            "label": "Jasper"
+        },
+        {
+            "value": "marion",
+            "label": "Marion"
+        },
+        {
+            "value": "mobile",
+            "label": "Mobile"
+        },
+        {
+            "value": "montgomery",
+            "label": "Montgomery"
+        },
+        {
+            "value": "opelika",
+            "label": "Opelika"
+        },
+        {
+            "value": "ozark",
+            "label": "Ozark"
+        },
+        {
+            "value": "phenix city",
+            "label": "Phenix City"
+        },
+        {
+            "value": "prichard",
+            "label": "Prichard"
+        },
+        {
+            "value": "scottsboro",
+            "label": "Scottsboro"
+        },
+        {
+            "value": "selma",
+            "label": "Selma"
+        },
+        {
+            "value": "sheffield",
+            "label": "Sheffield"
+        },
+        {
+            "value": "sylacauga",
+            "label": "Sylacauga"
+        },
+        {
+            "value": "talladega",
+            "label": "Talladega"
+        },
+        {
+            "value": "troy",
+            "label": "Troy"
+        },
+        {
+            "value": "tuscaloosa",
+            "label": "Tuscaloosa"
+        },
+        {
+            "value": "tuscumbia",
+            "label": "Tuscumbia"
+        },
+        {
+            "value": "tuskegee",
+            "label": "Tuskegee"
+        }
+    ],
+    "AK": [
+        {
+            "value": "anchorage",
+            "label": "Anchorage"
+        },
+        {
+            "value": "cordova",
+            "label": "Cordova"
+        },
+        {
+            "value": "fairbanks",
+            "label": "Fairbanks"
+        },
+        {
+            "value": "haines",
+            "label": "Haines"
+        },
+        {
+            "value": "homer",
+            "label": "Homer"
+        },
+        {
+            "value": "juneau",
+            "label": "Juneau"
+        },
+        {
+            "value": "ketchikan",
+            "label": "Ketchikan"
+        },
+        {
+            "value": "kodiak",
+            "label": "Kodiak"
+        },
+        {
+            "value": "kotzebue",
+            "label": "Kotzebue"
+        },
+        {
+            "value": "nome",
+            "label": "Nome"
+        },
+        {
+            "value": "palmer",
+            "label": "Palmer"
+        },
+        {
+            "value": "seward",
+            "label": "Seward"
+        },
+        {
+            "value": "sitka",
+            "label": "Sitka"
+        },
+        {
+            "value": "skagway",
+            "label": "Skagway"
+        },
+        {
+            "value": "valdez",
+            "label": "Valdez"
+        }
+    ],
+    "AZ": [
+        {
+            "value": "ajo",
+            "label": "Ajo"
+        },
+        {
+            "value": "avondale",
+            "label": "Avondale"
+        },
+        {
+            "value": "bisbee",
+            "label": "Bisbee"
+        },
+        {
+            "value": "casa grande",
+            "label": "Casa Grande"
+        },
+        {
+            "value": "chandler",
+            "label": "Chandler"
+        },
+        {
+            "value": "clifton",
+            "label": "Clifton"
+        },
+        {
+            "value": "douglas",
+            "label": "Douglas"
+        },
+        {
+            "value": "flagstaff",
+            "label": "Flagstaff"
+        },
+        {
+            "value": "florence",
+            "label": "Florence"
+        },
+        {
+            "value": "gila bend",
+            "label": "Gila Bend"
+        },
+        {
+            "value": "glendale",
+            "label": "Glendale"
+        },
+        {
+            "value": "globe",
+            "label": "Globe"
+        },
+        {
+            "value": "kingman",
+            "label": "Kingman"
+        },
+        {
+            "value": "lake havasu city",
+            "label": "Lake Havasu City"
+        },
+        {
+            "value": "mesa",
+            "label": "Mesa"
+        },
+        {
+            "value": "nogales",
+            "label": "Nogales"
+        },
+        {
+            "value": "oraibi",
+            "label": "Oraibi"
+        },
+        {
+            "value": "phoenix",
+            "label": "Phoenix"
+        },
+        {
+            "value": "prescott",
+            "label": "Prescott"
+        },
+        {
+            "value": "scottsdale",
+            "label": "Scottsdale"
+        },
+        {
+            "value": "sierra vista",
+            "label": "Sierra Vista"
+        },
+        {
+            "value": "tempe",
+            "label": "Tempe"
+        },
+        {
+            "value": "tombstone",
+            "label": "Tombstone"
+        },
+        {
+            "value": "tucson",
+            "label": "Tucson"
+        },
+        {
+            "value": "walpi",
+            "label": "Walpi"
+        },
+        {
+            "value": "window rock",
+            "label": "Window Rock"
+        },
+        {
+            "value": "winslow",
+            "label": "Winslow"
+        },
+        {
+            "value": "yuma",
+            "label": "Yuma"
+        }
+    ],
+    "AR": [
+        {
+            "value": "arkadelphia",
+            "label": "Arkadelphia"
+        },
+        {
+            "value": "arkansas post",
+            "label": "Arkansas Post"
+        },
+        {
+            "value": "batesville",
+            "label": "Batesville"
+        },
+        {
+            "value": "benton",
+            "label": "Benton"
+        },
+        {
+            "value": "blytheville",
+            "label": "Blytheville"
+        },
+        {
+            "value": "camden",
+            "label": "Camden"
+        },
+        {
+            "value": "conway",
+            "label": "Conway"
+        },
+        {
+            "value": "crossett",
+            "label": "Crossett"
+        },
+        {
+            "value": "el dorado",
+            "label": "El Dorado"
+        },
+        {
+            "value": "fayetteville",
+            "label": "Fayetteville"
+        },
+        {
+            "value": "forrest city",
+            "label": "Forrest City"
+        },
+        {
+            "value": "fort smith",
+            "label": "Fort Smith"
+        },
+        {
+            "value": "harrison",
+            "label": "Harrison"
+        },
+        {
+            "value": "helena",
+            "label": "Helena"
+        },
+        {
+            "value": "hope",
+            "label": "Hope"
+        },
+        {
+            "value": "hot springs",
+            "label": "Hot Springs"
+        },
+        {
+            "value": "jacksonville",
+            "label": "Jacksonville"
+        },
+        {
+            "value": "jonesboro",
+            "label": "Jonesboro"
+        },
+        {
+            "value": "little rock",
+            "label": "Little Rock"
+        },
+        {
+            "value": "magnolia",
+            "label": "Magnolia"
+        },
+        {
+            "value": "morrilton",
+            "label": "Morrilton"
+        },
+        {
+            "value": "newport",
+            "label": "Newport"
+        },
+        {
+            "value": "north little rock",
+            "label": "North Little Rock"
+        },
+        {
+            "value": "osceola",
+            "label": "Osceola"
+        },
+        {
+            "value": "pine bluff",
+            "label": "Pine Bluff"
+        },
+        {
+            "value": "rogers",
+            "label": "Rogers"
+        },
+        {
+            "value": "searcy",
+            "label": "Searcy"
+        },
+        {
+            "value": "stuttgart",
+            "label": "Stuttgart"
+        },
+        {
+            "value": "van buren",
+            "label": "Van Buren"
+        },
+        {
+            "value": "west memphis",
+            "label": "West Memphis"
+        }
+    ],
+    "CA": [
+        {
+            "value": "alameda",
+            "label": "Alameda"
+        },
+        {
+            "value": "alhambra",
+            "label": "Alhambra"
+        },
+        {
+            "value": "anaheim",
+            "label": "Anaheim"
+        },
+        {
+            "value": "antioch",
+            "label": "Antioch"
+        },
+        {
+            "value": "arcadia",
+            "label": "Arcadia"
+        },
+        {
+            "value": "bakersfield",
+            "label": "Bakersfield"
+        },
+        {
+            "value": "barstow",
+            "label": "Barstow"
+        },
+        {
+            "value": "belmont",
+            "label": "Belmont"
+        },
+        {
+            "value": "berkeley",
+            "label": "Berkeley"
+        },
+        {
+            "value": "beverly hills",
+            "label": "Beverly Hills"
+        },
+        {
+            "value": "brea",
+            "label": "Brea"
+        },
+        {
+            "value": "buena park",
+            "label": "Buena Park"
+        },
+        {
+            "value": "burbank",
+            "label": "Burbank"
+        },
+        {
+            "value": "calexico",
+            "label": "Calexico"
+        },
+        {
+            "value": "calistoga",
+            "label": "Calistoga"
+        },
+        {
+            "value": "carlsbad",
+            "label": "Carlsbad"
+        },
+        {
+            "value": "carmel",
+            "label": "Carmel"
+        },
+        {
+            "value": "chico",
+            "label": "Chico"
+        },
+        {
+            "value": "chula vista",
+            "label": "Chula Vista"
+        },
+        {
+            "value": "claremont",
+            "label": "Claremont"
+        },
+        {
+            "value": "compton",
+            "label": "Compton"
+        },
+        {
+            "value": "concord",
+            "label": "Concord"
+        },
+        {
+            "value": "corona",
+            "label": "Corona"
+        },
+        {
+            "value": "coronado",
+            "label": "Coronado"
+        },
+        {
+            "value": "costa mesa",
+            "label": "Costa Mesa"
+        },
+        {
+            "value": "culver city",
+            "label": "Culver City"
+        },
+        {
+            "value": "daly city",
+            "label": "Daly City"
+        },
+        {
+            "value": "davis",
+            "label": "Davis"
+        },
+        {
+            "value": "downey",
+            "label": "Downey"
+        },
+        {
+            "value": "el centro",
+            "label": "El Centro"
+        },
+        {
+            "value": "el cerrito",
+            "label": "El Cerrito"
+        },
+        {
+            "value": "el monte",
+            "label": "El Monte"
+        },
+        {
+            "value": "escondido",
+            "label": "Escondido"
+        },
+        {
+            "value": "eureka",
+            "label": "Eureka"
+        },
+        {
+            "value": "fairfield",
+            "label": "Fairfield"
+        },
+        {
+            "value": "fontana",
+            "label": "Fontana"
+        },
+        {
+            "value": "fremont",
+            "label": "Fremont"
+        },
+        {
+            "value": "fresno",
+            "label": "Fresno"
+        },
+        {
+            "value": "fullerton",
+            "label": "Fullerton"
+        },
+        {
+            "value": "garden grove",
+            "label": "Garden Grove"
+        },
+        {
+            "value": "glendale",
+            "label": "Glendale"
+        },
+        {
+            "value": "hayward",
+            "label": "Hayward"
+        },
+        {
+            "value": "hollywood",
+            "label": "Hollywood"
+        },
+        {
+            "value": "huntington beach",
+            "label": "Huntington Beach"
+        },
+        {
+            "value": "indio",
+            "label": "Indio"
+        },
+        {
+            "value": "inglewood",
+            "label": "Inglewood"
+        },
+        {
+            "value": "irvine",
+            "label": "Irvine"
+        },
+        {
+            "value": "la habra",
+            "label": "La Habra"
+        },
+        {
+            "value": "laguna beach",
+            "label": "Laguna Beach"
+        },
+        {
+            "value": "lancaster",
+            "label": "Lancaster"
+        },
+        {
+            "value": "livermore",
+            "label": "Livermore"
+        },
+        {
+            "value": "lodi",
+            "label": "Lodi"
+        },
+        {
+            "value": "lompoc",
+            "label": "Lompoc"
+        },
+        {
+            "value": "long beach",
+            "label": "Long Beach"
+        },
+        {
+            "value": "los angeles",
+            "label": "Los Angeles"
+        },
+        {
+            "value": "malibu",
+            "label": "Malibu"
+        },
+        {
+            "value": "martinez",
+            "label": "Martinez"
+        },
+        {
+            "value": "marysville",
+            "label": "Marysville"
+        },
+        {
+            "value": "menlo park",
+            "label": "Menlo Park"
+        },
+        {
+            "value": "merced",
+            "label": "Merced"
+        },
+        {
+            "value": "modesto",
+            "label": "Modesto"
+        },
+        {
+            "value": "monterey",
+            "label": "Monterey"
+        },
+        {
+            "value": "mountain view",
+            "label": "Mountain View"
+        },
+        {
+            "value": "napa",
+            "label": "Napa"
+        },
+        {
+            "value": "needles",
+            "label": "Needles"
+        },
+        {
+            "value": "newport beach",
+            "label": "Newport Beach"
+        },
+        {
+            "value": "norwalk",
+            "label": "Norwalk"
+        },
+        {
+            "value": "novato",
+            "label": "Novato"
+        },
+        {
+            "value": "oakland",
+            "label": "Oakland"
+        },
+        {
+            "value": "oceanside",
+            "label": "Oceanside"
+        },
+        {
+            "value": "ojai",
+            "label": "Ojai"
+        },
+        {
+            "value": "ontario",
+            "label": "Ontario"
+        },
+        {
+            "value": "orange",
+            "label": "Orange"
+        },
+        {
+            "value": "oroville",
+            "label": "Oroville"
+        },
+        {
+            "value": "oxnard",
+            "label": "Oxnard"
+        },
+        {
+            "value": "pacific grove",
+            "label": "Pacific Grove"
+        },
+        {
+            "value": "palm springs",
+            "label": "Palm Springs"
+        },
+        {
+            "value": "palmdale",
+            "label": "Palmdale"
+        },
+        {
+            "value": "palo alto",
+            "label": "Palo Alto"
+        },
+        {
+            "value": "pasadena",
+            "label": "Pasadena"
+        },
+        {
+            "value": "petaluma",
+            "label": "Petaluma"
+        },
+        {
+            "value": "pomona",
+            "label": "Pomona"
+        },
+        {
+            "value": "port hueneme",
+            "label": "Port Hueneme"
+        },
+        {
+            "value": "rancho cucamonga",
+            "label": "Rancho Cucamonga"
+        },
+        {
+            "value": "red bluff",
+            "label": "Red Bluff"
+        },
+        {
+            "value": "redding",
+            "label": "Redding"
+        },
+        {
+            "value": "redlands",
+            "label": "Redlands"
+        },
+        {
+            "value": "redondo beach",
+            "label": "Redondo Beach"
+        },
+        {
+            "value": "redwood city",
+            "label": "Redwood City"
+        },
+        {
+            "value": "richmond",
+            "label": "Richmond"
+        },
+        {
+            "value": "riverside",
+            "label": "Riverside"
+        },
+        {
+            "value": "roseville",
+            "label": "Roseville"
+        },
+        {
+            "value": "sacramento",
+            "label": "Sacramento"
+        },
+        {
+            "value": "salinas",
+            "label": "Salinas"
+        },
+        {
+            "value": "san bernardino",
+            "label": "San Bernardino"
+        },
+        {
+            "value": "san clemente",
+            "label": "San Clemente"
+        },
+        {
+            "value": "san diego",
+            "label": "San Diego"
+        },
+        {
+            "value": "san fernando",
+            "label": "San Fernando"
+        },
+        {
+            "value": "san francisco",
+            "label": "San Francisco"
+        },
+        {
+            "value": "san gabriel",
+            "label": "San Gabriel"
+        },
+        {
+            "value": "san jose",
+            "label": "San Jose"
+        },
+        {
+            "value": "san juan capistrano",
+            "label": "San Juan Capistrano"
+        },
+        {
+            "value": "san leandro",
+            "label": "San Leandro"
+        },
+        {
+            "value": "san luis obispo",
+            "label": "San Luis Obispo"
+        },
+        {
+            "value": "san marino",
+            "label": "San Marino"
+        },
+        {
+            "value": "san mateo",
+            "label": "San Mateo"
+        },
+        {
+            "value": "san pedro",
+            "label": "San Pedro"
+        },
+        {
+            "value": "san rafael",
+            "label": "San Rafael"
+        },
+        {
+            "value": "san simeon",
+            "label": "San Simeon"
+        },
+        {
+            "value": "santa ana",
+            "label": "Santa Ana"
+        },
+        {
+            "value": "santa barbara",
+            "label": "Santa Barbara"
+        },
+        {
+            "value": "santa clara",
+            "label": "Santa Clara"
+        },
+        {
+            "value": "santa clarita",
+            "label": "Santa Clarita"
+        },
+        {
+            "value": "santa cruz",
+            "label": "Santa Cruz"
+        },
+        {
+            "value": "santa monica",
+            "label": "Santa Monica"
+        },
+        {
+            "value": "santa rosa",
+            "label": "Santa Rosa"
+        },
+        {
+            "value": "sausalito",
+            "label": "Sausalito"
+        },
+        {
+            "value": "simi valley",
+            "label": "Simi Valley"
+        },
+        {
+            "value": "sonoma",
+            "label": "Sonoma"
+        },
+        {
+            "value": "south san francisco",
+            "label": "South San Francisco"
+        },
+        {
+            "value": "stockton",
+            "label": "Stockton"
+        },
+        {
+            "value": "sunnyvale",
+            "label": "Sunnyvale"
+        },
+        {
+            "value": "susanville",
+            "label": "Susanville"
+        },
+        {
+            "value": "thousand oaks",
+            "label": "Thousand Oaks"
+        },
+        {
+            "value": "torrance",
+            "label": "Torrance"
+        },
+        {
+            "value": "turlock",
+            "label": "Turlock"
+        },
+        {
+            "value": "ukiah",
+            "label": "Ukiah"
+        },
+        {
+            "value": "vallejo",
+            "label": "Vallejo"
+        },
+        {
+            "value": "ventura",
+            "label": "Ventura"
+        },
+        {
+            "value": "victorville",
+            "label": "Victorville"
+        },
+        {
+            "value": "visalia",
+            "label": "Visalia"
+        },
+        {
+            "value": "walnut creek",
+            "label": "Walnut Creek"
+        },
+        {
+            "value": "watts",
+            "label": "Watts"
+        },
+        {
+            "value": "west covina",
+            "label": "West Covina"
+        },
+        {
+            "value": "whittier",
+            "label": "Whittier"
+        },
+        {
+            "value": "woodland",
+            "label": "Woodland"
+        },
+        {
+            "value": "yorba linda",
+            "label": "Yorba Linda"
+        },
+        {
+            "value": "yuba city",
+            "label": "Yuba City"
+        }
+    ],
+    "CO": [
+        {
+            "value": "alamosa",
+            "label": "Alamosa"
+        },
+        {
+            "value": "aspen",
+            "label": "Aspen"
+        },
+        {
+            "value": "aurora",
+            "label": "Aurora"
+        },
+        {
+            "value": "boulder",
+            "label": "Boulder"
+        },
+        {
+            "value": "breckenridge",
+            "label": "Breckenridge"
+        },
+        {
+            "value": "brighton",
+            "label": "Brighton"
+        },
+        {
+            "value": "canon city",
+            "label": "Canon City"
+        },
+        {
+            "value": "central city",
+            "label": "Central City"
+        },
+        {
+            "value": "climax",
+            "label": "Climax"
+        },
+        {
+            "value": "colorado springs",
+            "label": "Colorado Springs"
+        },
+        {
+            "value": "cortez",
+            "label": "Cortez"
+        },
+        {
+            "value": "cripple creek",
+            "label": "Cripple Creek"
+        },
+        {
+            "value": "denver",
+            "label": "Denver"
+        },
+        {
+            "value": "durango",
+            "label": "Durango"
+        },
+        {
+            "value": "englewood",
+            "label": "Englewood"
+        },
+        {
+            "value": "estes park",
+            "label": "Estes Park"
+        },
+        {
+            "value": "fort collins",
+            "label": "Fort Collins"
+        },
+        {
+            "value": "fort morgan",
+            "label": "Fort Morgan"
+        },
+        {
+            "value": "georgetown",
+            "label": "Georgetown"
+        },
+        {
+            "value": "glenwood springs",
+            "label": "Glenwood Springs"
+        },
+        {
+            "value": "golden",
+            "label": "Golden"
+        },
+        {
+            "value": "grand junction",
+            "label": "Grand Junction"
+        },
+        {
+            "value": "greeley",
+            "label": "Greeley"
+        },
+        {
+            "value": "gunnison",
+            "label": "Gunnison"
+        },
+        {
+            "value": "la junta",
+            "label": "La Junta"
+        },
+        {
+            "value": "leadville",
+            "label": "Leadville"
+        },
+        {
+            "value": "littleton",
+            "label": "Littleton"
+        },
+        {
+            "value": "longmont",
+            "label": "Longmont"
+        },
+        {
+            "value": "loveland",
+            "label": "Loveland"
+        },
+        {
+            "value": "montrose",
+            "label": "Montrose"
+        },
+        {
+            "value": "ouray",
+            "label": "Ouray"
+        },
+        {
+            "value": "pagosa springs",
+            "label": "Pagosa Springs"
+        },
+        {
+            "value": "pueblo",
+            "label": "Pueblo"
+        },
+        {
+            "value": "silverton",
+            "label": "Silverton"
+        },
+        {
+            "value": "steamboat springs",
+            "label": "Steamboat Springs"
+        },
+        {
+            "value": "sterling",
+            "label": "Sterling"
+        },
+        {
+            "value": "telluride",
+            "label": "Telluride"
+        },
+        {
+            "value": "trinidad",
+            "label": "Trinidad"
+        },
+        {
+            "value": "vail",
+            "label": "Vail"
+        },
+        {
+            "value": "walsenburg",
+            "label": "Walsenburg"
+        },
+        {
+            "value": "westminster",
+            "label": "Westminster"
+        }
+    ],
+    "CT": [
+        {
+            "value": "ansonia",
+            "label": "Ansonia"
+        },
+        {
+            "value": "berlin",
+            "label": "Berlin"
+        },
+        {
+            "value": "bloomfield",
+            "label": "Bloomfield"
+        },
+        {
+            "value": "branford",
+            "label": "Branford"
+        },
+        {
+            "value": "bridgeport",
+            "label": "Bridgeport"
+        },
+        {
+            "value": "bristol",
+            "label": "Bristol"
+        },
+        {
+            "value": "coventry",
+            "label": "Coventry"
+        },
+        {
+            "value": "danbury",
+            "label": "Danbury"
+        },
+        {
+            "value": "darien",
+            "label": "Darien"
+        },
+        {
+            "value": "derby",
+            "label": "Derby"
+        },
+        {
+            "value": "east hartford",
+            "label": "East Hartford"
+        },
+        {
+            "value": "east haven",
+            "label": "East Haven"
+        },
+        {
+            "value": "enfield",
+            "label": "Enfield"
+        },
+        {
+            "value": "fairfield",
+            "label": "Fairfield"
+        },
+        {
+            "value": "farmington",
+            "label": "Farmington"
+        },
+        {
+            "value": "greenwich",
+            "label": "Greenwich"
+        },
+        {
+            "value": "groton",
+            "label": "Groton"
+        },
+        {
+            "value": "guilford",
+            "label": "Guilford"
+        },
+        {
+            "value": "hamden",
+            "label": "Hamden"
+        },
+        {
+            "value": "hartford",
+            "label": "Hartford"
+        },
+        {
+            "value": "lebanon",
+            "label": "Lebanon"
+        },
+        {
+            "value": "litchfield",
+            "label": "Litchfield"
+        },
+        {
+            "value": "manchester",
+            "label": "Manchester"
+        },
+        {
+            "value": "mansfield",
+            "label": "Mansfield"
+        },
+        {
+            "value": "meriden",
+            "label": "Meriden"
+        },
+        {
+            "value": "middletown",
+            "label": "Middletown"
+        },
+        {
+            "value": "milford",
+            "label": "Milford"
+        },
+        {
+            "value": "mystic",
+            "label": "Mystic"
+        },
+        {
+            "value": "naugatuck",
+            "label": "Naugatuck"
+        },
+        {
+            "value": "new britain",
+            "label": "New Britain"
+        },
+        {
+            "value": "new haven",
+            "label": "New Haven"
+        },
+        {
+            "value": "new london",
+            "label": "New London"
+        },
+        {
+            "value": "north haven",
+            "label": "North Haven"
+        },
+        {
+            "value": "norwalk",
+            "label": "Norwalk"
+        },
+        {
+            "value": "norwich",
+            "label": "Norwich"
+        },
+        {
+            "value": "old saybrook",
+            "label": "Old Saybrook"
+        },
+        {
+            "value": "orange",
+            "label": "Orange"
+        },
+        {
+            "value": "seymour",
+            "label": "Seymour"
+        },
+        {
+            "value": "shelton",
+            "label": "Shelton"
+        },
+        {
+            "value": "simsbury",
+            "label": "Simsbury"
+        },
+        {
+            "value": "southington",
+            "label": "Southington"
+        },
+        {
+            "value": "stamford",
+            "label": "Stamford"
+        },
+        {
+            "value": "stonington",
+            "label": "Stonington"
+        },
+        {
+            "value": "stratford",
+            "label": "Stratford"
+        },
+        {
+            "value": "torrington",
+            "label": "Torrington"
+        },
+        {
+            "value": "wallingford",
+            "label": "Wallingford"
+        },
+        {
+            "value": "waterbury",
+            "label": "Waterbury"
+        },
+        {
+            "value": "waterford",
+            "label": "Waterford"
+        },
+        {
+            "value": "watertown",
+            "label": "Watertown"
+        },
+        {
+            "value": "west hartford",
+            "label": "West Hartford"
+        },
+        {
+            "value": "west haven",
+            "label": "West Haven"
+        },
+        {
+            "value": "westport",
+            "label": "Westport"
+        },
+        {
+            "value": "wethersfield",
+            "label": "Wethersfield"
+        },
+        {
+            "value": "willimantic",
+            "label": "Willimantic"
+        },
+        {
+            "value": "windham",
+            "label": "Windham"
+        },
+        {
+            "value": "windsor",
+            "label": "Windsor"
+        },
+        {
+            "value": "windsor locks",
+            "label": "Windsor Locks"
+        },
+        {
+            "value": "winsted",
+            "label": "Winsted"
+        }
+    ],
+    "DE": [
+        {
+            "value": "dover",
+            "label": "Dover"
+        },
+        {
+            "value": "lewes",
+            "label": "Lewes"
+        },
+        {
+            "value": "milford",
+            "label": "Milford"
+        },
+        {
+            "value": "new castle",
+            "label": "New Castle"
+        },
+        {
+            "value": "newark",
+            "label": "Newark"
+        },
+        {
+            "value": "smyrna",
+            "label": "Smyrna"
+        },
+        {
+            "value": "wilmington",
+            "label": "Wilmington"
+        }
+    ],
+    "FL": [
+        {
+            "value": "apalachicola",
+            "label": "Apalachicola"
+        },
+        {
+            "value": "bartow",
+            "label": "Bartow"
+        },
+        {
+            "value": "belle glade",
+            "label": "Belle Glade"
+        },
+        {
+            "value": "boca raton",
+            "label": "Boca Raton"
+        },
+        {
+            "value": "bradenton",
+            "label": "Bradenton"
+        },
+        {
+            "value": "cape coral",
+            "label": "Cape Coral"
+        },
+        {
+            "value": "clearwater",
+            "label": "Clearwater"
+        },
+        {
+            "value": "cocoa beach",
+            "label": "Cocoa Beach"
+        },
+        {
+            "value": "cocoa-rockledge",
+            "label": "Cocoa-rockledge"
+        },
+        {
+            "value": "coral gables",
+            "label": "Coral Gables"
+        },
+        {
+            "value": "daytona beach",
+            "label": "Daytona Beach"
+        },
+        {
+            "value": "de land",
+            "label": "De Land"
+        },
+        {
+            "value": "deerfield beach",
+            "label": "Deerfield Beach"
+        },
+        {
+            "value": "delray beach",
+            "label": "Delray Beach"
+        },
+        {
+            "value": "fernandina beach",
+            "label": "Fernandina Beach"
+        },
+        {
+            "value": "fort lauderdale",
+            "label": "Fort Lauderdale"
+        },
+        {
+            "value": "fort myers",
+            "label": "Fort Myers"
+        },
+        {
+            "value": "fort pierce",
+            "label": "Fort Pierce"
+        },
+        {
+            "value": "fort walton beach",
+            "label": "Fort Walton Beach"
+        },
+        {
+            "value": "gainesville",
+            "label": "Gainesville"
+        },
+        {
+            "value": "hallandale beach",
+            "label": "Hallandale Beach"
+        },
+        {
+            "value": "hialeah",
+            "label": "Hialeah"
+        },
+        {
+            "value": "hollywood",
+            "label": "Hollywood"
+        },
+        {
+            "value": "homestead",
+            "label": "Homestead"
+        },
+        {
+            "value": "jacksonville",
+            "label": "Jacksonville"
+        },
+        {
+            "value": "key west",
+            "label": "Key West"
+        },
+        {
+            "value": "lake city",
+            "label": "Lake City"
+        },
+        {
+            "value": "lake wales",
+            "label": "Lake Wales"
+        },
+        {
+            "value": "lakeland",
+            "label": "Lakeland"
+        },
+        {
+            "value": "largo",
+            "label": "Largo"
+        },
+        {
+            "value": "melbourne",
+            "label": "Melbourne"
+        },
+        {
+            "value": "miami",
+            "label": "Miami"
+        },
+        {
+            "value": "miami beach",
+            "label": "Miami Beach"
+        },
+        {
+            "value": "naples",
+            "label": "Naples"
+        },
+        {
+            "value": "new smyrna beach",
+            "label": "New Smyrna Beach"
+        },
+        {
+            "value": "ocala",
+            "label": "Ocala"
+        },
+        {
+            "value": "orlando",
+            "label": "Orlando"
+        },
+        {
+            "value": "ormond beach",
+            "label": "Ormond Beach"
+        },
+        {
+            "value": "palatka",
+            "label": "Palatka"
+        },
+        {
+            "value": "palm bay",
+            "label": "Palm Bay"
+        },
+        {
+            "value": "palm beach",
+            "label": "Palm Beach"
+        },
+        {
+            "value": "panama city",
+            "label": "Panama City"
+        },
+        {
+            "value": "pensacola",
+            "label": "Pensacola"
+        },
+        {
+            "value": "pompano beach",
+            "label": "Pompano Beach"
+        },
+        {
+            "value": "saint augustine",
+            "label": "Saint Augustine"
+        },
+        {
+            "value": "saint petersburg",
+            "label": "Saint Petersburg"
+        },
+        {
+            "value": "sanford",
+            "label": "Sanford"
+        },
+        {
+            "value": "sarasota",
+            "label": "Sarasota"
+        },
+        {
+            "value": "sebring",
+            "label": "Sebring"
+        },
+        {
+            "value": "tallahassee",
+            "label": "Tallahassee"
+        },
+        {
+            "value": "tampa",
+            "label": "Tampa"
+        },
+        {
+            "value": "tarpon springs",
+            "label": "Tarpon Springs"
+        },
+        {
+            "value": "titusville",
+            "label": "Titusville"
+        },
+        {
+            "value": "venice",
+            "label": "Venice"
+        },
+        {
+            "value": "west palm beach",
+            "label": "West Palm Beach"
+        },
+        {
+            "value": "white springs",
+            "label": "White Springs"
+        },
+        {
+            "value": "winter haven",
+            "label": "Winter Haven"
+        },
+        {
+            "value": "winter park",
+            "label": "Winter Park"
+        }
+    ],
+    "GA": [
+        {
+            "value": "albany",
+            "label": "Albany"
+        },
+        {
+            "value": "americus",
+            "label": "Americus"
+        },
+        {
+            "value": "andersonville",
+            "label": "Andersonville"
+        },
+        {
+            "value": "athens",
+            "label": "Athens"
+        },
+        {
+            "value": "atlanta",
+            "label": "Atlanta"
+        },
+        {
+            "value": "augusta",
+            "label": "Augusta"
+        },
+        {
+            "value": "bainbridge",
+            "label": "Bainbridge"
+        },
+        {
+            "value": "blairsville",
+            "label": "Blairsville"
+        },
+        {
+            "value": "brunswick",
+            "label": "Brunswick"
+        },
+        {
+            "value": "calhoun",
+            "label": "Calhoun"
+        },
+        {
+            "value": "carrollton",
+            "label": "Carrollton"
+        },
+        {
+            "value": "columbus",
+            "label": "Columbus"
+        },
+        {
+            "value": "dahlonega",
+            "label": "Dahlonega"
+        },
+        {
+            "value": "dalton",
+            "label": "Dalton"
+        },
+        {
+            "value": "darien",
+            "label": "Darien"
+        },
+        {
+            "value": "decatur",
+            "label": "Decatur"
+        },
+        {
+            "value": "douglas",
+            "label": "Douglas"
+        },
+        {
+            "value": "east point",
+            "label": "East Point"
+        },
+        {
+            "value": "fitzgerald",
+            "label": "Fitzgerald"
+        },
+        {
+            "value": "fort valley",
+            "label": "Fort Valley"
+        },
+        {
+            "value": "gainesville",
+            "label": "Gainesville"
+        },
+        {
+            "value": "la grange",
+            "label": "La Grange"
+        },
+        {
+            "value": "macon",
+            "label": "Macon"
+        },
+        {
+            "value": "marietta",
+            "label": "Marietta"
+        },
+        {
+            "value": "milledgeville",
+            "label": "Milledgeville"
+        },
+        {
+            "value": "plains",
+            "label": "Plains"
+        },
+        {
+            "value": "rome",
+            "label": "Rome"
+        },
+        {
+            "value": "savannah",
+            "label": "Savannah"
+        },
+        {
+            "value": "toccoa",
+            "label": "Toccoa"
+        },
+        {
+            "value": "valdosta",
+            "label": "Valdosta"
+        },
+        {
+            "value": "warm springs",
+            "label": "Warm Springs"
+        },
+        {
+            "value": "warner robins",
+            "label": "Warner Robins"
+        },
+        {
+            "value": "washington",
+            "label": "Washington"
+        },
+        {
+            "value": "waycross",
+            "label": "Waycross"
+        }
+    ],
+    "HI": [
+        {
+            "value": "hanalei",
+            "label": "Hanalei"
+        },
+        {
+            "value": "hilo",
+            "label": "Hilo"
+        },
+        {
+            "value": "honaunau",
+            "label": "Honaunau"
+        },
+        {
+            "value": "honolulu",
+            "label": "Honolulu"
+        },
+        {
+            "value": "kahului",
+            "label": "Kahului"
+        },
+        {
+            "value": "kaneohe",
+            "label": "Kaneohe"
+        },
+        {
+            "value": "kapaa",
+            "label": "Kapaa"
+        },
+        {
+            "value": "kawaihae",
+            "label": "Kawaihae"
+        },
+        {
+            "value": "lahaina",
+            "label": "Lahaina"
+        },
+        {
+            "value": "laie",
+            "label": "Laie"
+        },
+        {
+            "value": "wahiawa",
+            "label": "Wahiawa"
+        },
+        {
+            "value": "wailuku",
+            "label": "Wailuku"
+        },
+        {
+            "value": "waimea",
+            "label": "Waimea"
+        }
+    ],
+    "ID": [
+        {
+            "value": "blackfoot",
+            "label": "Blackfoot"
+        },
+        {
+            "value": "boise",
+            "label": "Boise"
+        },
+        {
+            "value": "bonners ferry",
+            "label": "Bonners Ferry"
+        },
+        {
+            "value": "caldwell",
+            "label": "Caldwell"
+        },
+        {
+            "value": "coeur d’alene",
+            "label": "Coeur D’alene"
+        },
+        {
+            "value": "idaho city",
+            "label": "Idaho City"
+        },
+        {
+            "value": "idaho falls",
+            "label": "Idaho Falls"
+        },
+        {
+            "value": "kellogg",
+            "label": "Kellogg"
+        },
+        {
+            "value": "lewiston",
+            "label": "Lewiston"
+        },
+        {
+            "value": "moscow",
+            "label": "Moscow"
+        },
+        {
+            "value": "nampa",
+            "label": "Nampa"
+        },
+        {
+            "value": "pocatello",
+            "label": "Pocatello"
+        },
+        {
+            "value": "priest river",
+            "label": "Priest River"
+        },
+        {
+            "value": "rexburg",
+            "label": "Rexburg"
+        },
+        {
+            "value": "sun valley",
+            "label": "Sun Valley"
+        },
+        {
+            "value": "twin falls",
+            "label": "Twin Falls"
+        }
+    ],
+    "IL": [
+        {
+            "value": "alton",
+            "label": "Alton"
+        },
+        {
+            "value": "arlington heights",
+            "label": "Arlington Heights"
+        },
+        {
+            "value": "arthur",
+            "label": "Arthur"
+        },
+        {
+            "value": "aurora",
+            "label": "Aurora"
+        },
+        {
+            "value": "belleville",
+            "label": "Belleville"
+        },
+        {
+            "value": "belvidere",
+            "label": "Belvidere"
+        },
+        {
+            "value": "bloomington",
+            "label": "Bloomington"
+        },
+        {
+            "value": "brookfield",
+            "label": "Brookfield"
+        },
+        {
+            "value": "cahokia",
+            "label": "Cahokia"
+        },
+        {
+            "value": "cairo",
+            "label": "Cairo"
+        },
+        {
+            "value": "calumet city",
+            "label": "Calumet City"
+        },
+        {
+            "value": "canton",
+            "label": "Canton"
+        },
+        {
+            "value": "carbondale",
+            "label": "Carbondale"
+        },
+        {
+            "value": "carlinville",
+            "label": "Carlinville"
+        },
+        {
+            "value": "carthage",
+            "label": "Carthage"
+        },
+        {
+            "value": "centralia",
+            "label": "Centralia"
+        },
+        {
+            "value": "champaign",
+            "label": "Champaign"
+        },
+        {
+            "value": "charleston",
+            "label": "Charleston"
+        },
+        {
+            "value": "chester",
+            "label": "Chester"
+        },
+        {
+            "value": "chicago",
+            "label": "Chicago"
+        },
+        {
+            "value": "chicago heights",
+            "label": "Chicago Heights"
+        },
+        {
+            "value": "cicero",
+            "label": "Cicero"
+        },
+        {
+            "value": "collinsville",
+            "label": "Collinsville"
+        },
+        {
+            "value": "danville",
+            "label": "Danville"
+        },
+        {
+            "value": "decatur",
+            "label": "Decatur"
+        },
+        {
+            "value": "dekalb",
+            "label": "Dekalb"
+        },
+        {
+            "value": "des plaines",
+            "label": "Des Plaines"
+        },
+        {
+            "value": "dixon",
+            "label": "Dixon"
+        },
+        {
+            "value": "east moline",
+            "label": "East Moline"
+        },
+        {
+            "value": "east saint louis",
+            "label": "East Saint Louis"
+        },
+        {
+            "value": "effingham",
+            "label": "Effingham"
+        },
+        {
+            "value": "elgin",
+            "label": "Elgin"
+        },
+        {
+            "value": "elmhurst",
+            "label": "Elmhurst"
+        },
+        {
+            "value": "evanston",
+            "label": "Evanston"
+        },
+        {
+            "value": "freeport",
+            "label": "Freeport"
+        },
+        {
+            "value": "galena",
+            "label": "Galena"
+        },
+        {
+            "value": "galesburg",
+            "label": "Galesburg"
+        },
+        {
+            "value": "glen ellyn",
+            "label": "Glen Ellyn"
+        },
+        {
+            "value": "glenview",
+            "label": "Glenview"
+        },
+        {
+            "value": "granite city",
+            "label": "Granite City"
+        },
+        {
+            "value": "harrisburg",
+            "label": "Harrisburg"
+        },
+        {
+            "value": "herrin",
+            "label": "Herrin"
+        },
+        {
+            "value": "highland park",
+            "label": "Highland Park"
+        },
+        {
+            "value": "jacksonville",
+            "label": "Jacksonville"
+        },
+        {
+            "value": "joliet",
+            "label": "Joliet"
+        },
+        {
+            "value": "kankakee",
+            "label": "Kankakee"
+        },
+        {
+            "value": "kaskaskia",
+            "label": "Kaskaskia"
+        },
+        {
+            "value": "kewanee",
+            "label": "Kewanee"
+        },
+        {
+            "value": "la salle",
+            "label": "La Salle"
+        },
+        {
+            "value": "lake forest",
+            "label": "Lake Forest"
+        },
+        {
+            "value": "libertyville",
+            "label": "Libertyville"
+        },
+        {
+            "value": "lincoln",
+            "label": "Lincoln"
+        },
+        {
+            "value": "lisle",
+            "label": "Lisle"
+        },
+        {
+            "value": "lombard",
+            "label": "Lombard"
+        },
+        {
+            "value": "macomb",
+            "label": "Macomb"
+        },
+        {
+            "value": "mattoon",
+            "label": "Mattoon"
+        },
+        {
+            "value": "moline",
+            "label": "Moline"
+        },
+        {
+            "value": "monmouth",
+            "label": "Monmouth"
+        },
+        {
+            "value": "mount vernon",
+            "label": "Mount Vernon"
+        },
+        {
+            "value": "mundelein",
+            "label": "Mundelein"
+        },
+        {
+            "value": "naperville",
+            "label": "Naperville"
+        },
+        {
+            "value": "nauvoo",
+            "label": "Nauvoo"
+        },
+        {
+            "value": "normal",
+            "label": "Normal"
+        },
+        {
+            "value": "north chicago",
+            "label": "North Chicago"
+        },
+        {
+            "value": "oak park",
+            "label": "Oak Park"
+        },
+        {
+            "value": "oregon",
+            "label": "Oregon"
+        },
+        {
+            "value": "ottawa",
+            "label": "Ottawa"
+        },
+        {
+            "value": "palatine",
+            "label": "Palatine"
+        },
+        {
+            "value": "park forest",
+            "label": "Park Forest"
+        },
+        {
+            "value": "park ridge",
+            "label": "Park Ridge"
+        },
+        {
+            "value": "pekin",
+            "label": "Pekin"
+        },
+        {
+            "value": "peoria",
+            "label": "Peoria"
+        },
+        {
+            "value": "petersburg",
+            "label": "Petersburg"
+        },
+        {
+            "value": "pontiac",
+            "label": "Pontiac"
+        },
+        {
+            "value": "quincy",
+            "label": "Quincy"
+        },
+        {
+            "value": "rantoul",
+            "label": "Rantoul"
+        },
+        {
+            "value": "river forest",
+            "label": "River Forest"
+        },
+        {
+            "value": "rock island",
+            "label": "Rock Island"
+        },
+        {
+            "value": "rockford",
+            "label": "Rockford"
+        },
+        {
+            "value": "salem",
+            "label": "Salem"
+        },
+        {
+            "value": "shawneetown",
+            "label": "Shawneetown"
+        },
+        {
+            "value": "skokie",
+            "label": "Skokie"
+        },
+        {
+            "value": "south holland",
+            "label": "South Holland"
+        },
+        {
+            "value": "springfield",
+            "label": "Springfield"
+        },
+        {
+            "value": "streator",
+            "label": "Streator"
+        },
+        {
+            "value": "summit",
+            "label": "Summit"
+        },
+        {
+            "value": "urbana",
+            "label": "Urbana"
+        },
+        {
+            "value": "vandalia",
+            "label": "Vandalia"
+        },
+        {
+            "value": "virden",
+            "label": "Virden"
+        },
+        {
+            "value": "waukegan",
+            "label": "Waukegan"
+        },
+        {
+            "value": "wheaton",
+            "label": "Wheaton"
+        },
+        {
+            "value": "wilmette",
+            "label": "Wilmette"
+        },
+        {
+            "value": "winnetka",
+            "label": "Winnetka"
+        },
+        {
+            "value": "wood river",
+            "label": "Wood River"
+        },
+        {
+            "value": "zion",
+            "label": "Zion"
+        }
+    ],
+    "IN": [
+        {
+            "value": "anderson",
+            "label": "Anderson"
+        },
+        {
+            "value": "bedford",
+            "label": "Bedford"
+        },
+        {
+            "value": "bloomington",
+            "label": "Bloomington"
+        },
+        {
+            "value": "columbus",
+            "label": "Columbus"
+        },
+        {
+            "value": "connersville",
+            "label": "Connersville"
+        },
+        {
+            "value": "corydon",
+            "label": "Corydon"
+        },
+        {
+            "value": "crawfordsville",
+            "label": "Crawfordsville"
+        },
+        {
+            "value": "east chicago",
+            "label": "East Chicago"
+        },
+        {
+            "value": "elkhart",
+            "label": "Elkhart"
+        },
+        {
+            "value": "elwood",
+            "label": "Elwood"
+        },
+        {
+            "value": "evansville",
+            "label": "Evansville"
+        },
+        {
+            "value": "fort wayne",
+            "label": "Fort Wayne"
+        },
+        {
+            "value": "french lick",
+            "label": "French Lick"
+        },
+        {
+            "value": "gary",
+            "label": "Gary"
+        },
+        {
+            "value": "geneva",
+            "label": "Geneva"
+        },
+        {
+            "value": "goshen",
+            "label": "Goshen"
+        },
+        {
+            "value": "greenfield",
+            "label": "Greenfield"
+        },
+        {
+            "value": "hammond",
+            "label": "Hammond"
+        },
+        {
+            "value": "hobart",
+            "label": "Hobart"
+        },
+        {
+            "value": "huntington",
+            "label": "Huntington"
+        },
+        {
+            "value": "indianapolis",
+            "label": "Indianapolis"
+        },
+        {
+            "value": "jeffersonville",
+            "label": "Jeffersonville"
+        },
+        {
+            "value": "kokomo",
+            "label": "Kokomo"
+        },
+        {
+            "value": "lafayette",
+            "label": "Lafayette"
+        },
+        {
+            "value": "madison",
+            "label": "Madison"
+        },
+        {
+            "value": "marion",
+            "label": "Marion"
+        },
+        {
+            "value": "michigan city",
+            "label": "Michigan City"
+        },
+        {
+            "value": "mishawaka",
+            "label": "Mishawaka"
+        },
+        {
+            "value": "muncie",
+            "label": "Muncie"
+        },
+        {
+            "value": "nappanee",
+            "label": "Nappanee"
+        },
+        {
+            "value": "nashville",
+            "label": "Nashville"
+        },
+        {
+            "value": "new albany",
+            "label": "New Albany"
+        },
+        {
+            "value": "new castle",
+            "label": "New Castle"
+        },
+        {
+            "value": "new harmony",
+            "label": "New Harmony"
+        },
+        {
+            "value": "peru",
+            "label": "Peru"
+        },
+        {
+            "value": "plymouth",
+            "label": "Plymouth"
+        },
+        {
+            "value": "richmond",
+            "label": "Richmond"
+        },
+        {
+            "value": "santa claus",
+            "label": "Santa Claus"
+        },
+        {
+            "value": "shelbyville",
+            "label": "Shelbyville"
+        },
+        {
+            "value": "south bend",
+            "label": "South Bend"
+        },
+        {
+            "value": "terre haute",
+            "label": "Terre Haute"
+        },
+        {
+            "value": "valparaiso",
+            "label": "Valparaiso"
+        },
+        {
+            "value": "vincennes",
+            "label": "Vincennes"
+        },
+        {
+            "value": "wabash",
+            "label": "Wabash"
+        },
+        {
+            "value": "west lafayette",
+            "label": "West Lafayette"
+        }
+    ],
+    "IA": [
+        {
+            "value": "amana colonies",
+            "label": "Amana Colonies"
+        },
+        {
+            "value": "ames",
+            "label": "Ames"
+        },
+        {
+            "value": "boone",
+            "label": "Boone"
+        },
+        {
+            "value": "burlington",
+            "label": "Burlington"
+        },
+        {
+            "value": "cedar falls",
+            "label": "Cedar Falls"
+        },
+        {
+            "value": "cedar rapids",
+            "label": "Cedar Rapids"
+        },
+        {
+            "value": "charles city",
+            "label": "Charles City"
+        },
+        {
+            "value": "cherokee",
+            "label": "Cherokee"
+        },
+        {
+            "value": "clinton",
+            "label": "Clinton"
+        },
+        {
+            "value": "council bluffs",
+            "label": "Council Bluffs"
+        },
+        {
+            "value": "davenport",
+            "label": "Davenport"
+        },
+        {
+            "value": "des moines",
+            "label": "Des Moines"
+        },
+        {
+            "value": "dubuque",
+            "label": "Dubuque"
+        },
+        {
+            "value": "estherville",
+            "label": "Estherville"
+        },
+        {
+            "value": "fairfield",
+            "label": "Fairfield"
+        },
+        {
+            "value": "fort dodge",
+            "label": "Fort Dodge"
+        },
+        {
+            "value": "grinnell",
+            "label": "Grinnell"
+        },
+        {
+            "value": "indianola",
+            "label": "Indianola"
+        },
+        {
+            "value": "iowa city",
+            "label": "Iowa City"
+        },
+        {
+            "value": "keokuk",
+            "label": "Keokuk"
+        },
+        {
+            "value": "mason city",
+            "label": "Mason City"
+        },
+        {
+            "value": "mount pleasant",
+            "label": "Mount Pleasant"
+        },
+        {
+            "value": "muscatine",
+            "label": "Muscatine"
+        },
+        {
+            "value": "newton",
+            "label": "Newton"
+        },
+        {
+            "value": "oskaloosa",
+            "label": "Oskaloosa"
+        },
+        {
+            "value": "ottumwa",
+            "label": "Ottumwa"
+        },
+        {
+            "value": "sioux city",
+            "label": "Sioux City"
+        },
+        {
+            "value": "waterloo",
+            "label": "Waterloo"
+        },
+        {
+            "value": "webster city",
+            "label": "Webster City"
+        },
+        {
+            "value": "west des moines",
+            "label": "West Des Moines"
+        }
+    ],
+    "KS": [
+        {
+            "value": "abilene",
+            "label": "Abilene"
+        },
+        {
+            "value": "arkansas city",
+            "label": "Arkansas City"
+        },
+        {
+            "value": "atchison",
+            "label": "Atchison"
+        },
+        {
+            "value": "chanute",
+            "label": "Chanute"
+        },
+        {
+            "value": "coffeyville",
+            "label": "Coffeyville"
+        },
+        {
+            "value": "council grove",
+            "label": "Council Grove"
+        },
+        {
+            "value": "dodge city",
+            "label": "Dodge City"
+        },
+        {
+            "value": "emporia",
+            "label": "Emporia"
+        },
+        {
+            "value": "fort scott",
+            "label": "Fort Scott"
+        },
+        {
+            "value": "garden city",
+            "label": "Garden City"
+        },
+        {
+            "value": "great bend",
+            "label": "Great Bend"
+        },
+        {
+            "value": "hays",
+            "label": "Hays"
+        },
+        {
+            "value": "hutchinson",
+            "label": "Hutchinson"
+        },
+        {
+            "value": "independence",
+            "label": "Independence"
+        },
+        {
+            "value": "junction city",
+            "label": "Junction City"
+        },
+        {
+            "value": "kansas city",
+            "label": "Kansas City"
+        },
+        {
+            "value": "lawrence",
+            "label": "Lawrence"
+        },
+        {
+            "value": "leavenworth",
+            "label": "Leavenworth"
+        },
+        {
+            "value": "liberal",
+            "label": "Liberal"
+        },
+        {
+            "value": "manhattan",
+            "label": "Manhattan"
+        },
+        {
+            "value": "mcpherson",
+            "label": "Mcpherson"
+        },
+        {
+            "value": "medicine lodge",
+            "label": "Medicine Lodge"
+        },
+        {
+            "value": "newton",
+            "label": "Newton"
+        },
+        {
+            "value": "olathe",
+            "label": "Olathe"
+        },
+        {
+            "value": "osawatomie",
+            "label": "Osawatomie"
+        },
+        {
+            "value": "ottawa",
+            "label": "Ottawa"
+        },
+        {
+            "value": "overland park",
+            "label": "Overland Park"
+        },
+        {
+            "value": "pittsburg",
+            "label": "Pittsburg"
+        },
+        {
+            "value": "salina",
+            "label": "Salina"
+        },
+        {
+            "value": "shawnee",
+            "label": "Shawnee"
+        },
+        {
+            "value": "smith center",
+            "label": "Smith Center"
+        },
+        {
+            "value": "topeka",
+            "label": "Topeka"
+        },
+        {
+            "value": "wichita",
+            "label": "Wichita"
+        }
+    ],
+    "KY": [
+        {
+            "value": "ashland",
+            "label": "Ashland"
+        },
+        {
+            "value": "barbourville",
+            "label": "Barbourville"
+        },
+        {
+            "value": "bardstown",
+            "label": "Bardstown"
+        },
+        {
+            "value": "berea",
+            "label": "Berea"
+        },
+        {
+            "value": "boonesborough",
+            "label": "Boonesborough"
+        },
+        {
+            "value": "bowling green",
+            "label": "Bowling Green"
+        },
+        {
+            "value": "campbellsville",
+            "label": "Campbellsville"
+        },
+        {
+            "value": "covington",
+            "label": "Covington"
+        },
+        {
+            "value": "danville",
+            "label": "Danville"
+        },
+        {
+            "value": "elizabethtown",
+            "label": "Elizabethtown"
+        },
+        {
+            "value": "frankfort",
+            "label": "Frankfort"
+        },
+        {
+            "value": "harlan",
+            "label": "Harlan"
+        },
+        {
+            "value": "harrodsburg",
+            "label": "Harrodsburg"
+        },
+        {
+            "value": "hazard",
+            "label": "Hazard"
+        },
+        {
+            "value": "henderson",
+            "label": "Henderson"
+        },
+        {
+            "value": "hodgenville",
+            "label": "Hodgenville"
+        },
+        {
+            "value": "hopkinsville",
+            "label": "Hopkinsville"
+        },
+        {
+            "value": "lexington",
+            "label": "Lexington"
+        },
+        {
+            "value": "louisville",
+            "label": "Louisville"
+        },
+        {
+            "value": "mayfield",
+            "label": "Mayfield"
+        },
+        {
+            "value": "maysville",
+            "label": "Maysville"
+        },
+        {
+            "value": "middlesboro",
+            "label": "Middlesboro"
+        },
+        {
+            "value": "newport",
+            "label": "Newport"
+        },
+        {
+            "value": "owensboro",
+            "label": "Owensboro"
+        },
+        {
+            "value": "paducah",
+            "label": "Paducah"
+        },
+        {
+            "value": "paris",
+            "label": "Paris"
+        },
+        {
+            "value": "richmond",
+            "label": "Richmond"
+        }
+    ],
+    "LA": [
+        {
+            "value": "abbeville",
+            "label": "Abbeville"
+        },
+        {
+            "value": "alexandria",
+            "label": "Alexandria"
+        },
+        {
+            "value": "bastrop",
+            "label": "Bastrop"
+        },
+        {
+            "value": "baton rouge",
+            "label": "Baton Rouge"
+        },
+        {
+            "value": "bogalusa",
+            "label": "Bogalusa"
+        },
+        {
+            "value": "bossier city",
+            "label": "Bossier City"
+        },
+        {
+            "value": "gretna",
+            "label": "Gretna"
+        },
+        {
+            "value": "houma",
+            "label": "Houma"
+        },
+        {
+            "value": "lafayette",
+            "label": "Lafayette"
+        },
+        {
+            "value": "lake charles",
+            "label": "Lake Charles"
+        },
+        {
+            "value": "monroe",
+            "label": "Monroe"
+        },
+        {
+            "value": "morgan city",
+            "label": "Morgan City"
+        },
+        {
+            "value": "natchitoches",
+            "label": "Natchitoches"
+        },
+        {
+            "value": "new iberia",
+            "label": "New Iberia"
+        },
+        {
+            "value": "new orleans",
+            "label": "New Orleans"
+        },
+        {
+            "value": "opelousas",
+            "label": "Opelousas"
+        },
+        {
+            "value": "ruston",
+            "label": "Ruston"
+        },
+        {
+            "value": "saint martinville",
+            "label": "Saint Martinville"
+        },
+        {
+            "value": "shreveport",
+            "label": "Shreveport"
+        },
+        {
+            "value": "thibodaux",
+            "label": "Thibodaux"
+        }
+    ],
+    "ME": [
+        {
+            "value": "auburn",
+            "label": "Auburn"
+        },
+        {
+            "value": "augusta",
+            "label": "Augusta"
+        },
+        {
+            "value": "bangor",
+            "label": "Bangor"
+        },
+        {
+            "value": "bar harbor",
+            "label": "Bar Harbor"
+        },
+        {
+            "value": "bath",
+            "label": "Bath"
+        },
+        {
+            "value": "belfast",
+            "label": "Belfast"
+        },
+        {
+            "value": "biddeford",
+            "label": "Biddeford"
+        },
+        {
+            "value": "boothbay harbor",
+            "label": "Boothbay Harbor"
+        },
+        {
+            "value": "brunswick",
+            "label": "Brunswick"
+        },
+        {
+            "value": "calais",
+            "label": "Calais"
+        },
+        {
+            "value": "caribou",
+            "label": "Caribou"
+        },
+        {
+            "value": "castine",
+            "label": "Castine"
+        },
+        {
+            "value": "eastport",
+            "label": "Eastport"
+        },
+        {
+            "value": "ellsworth",
+            "label": "Ellsworth"
+        },
+        {
+            "value": "farmington",
+            "label": "Farmington"
+        },
+        {
+            "value": "fort kent",
+            "label": "Fort Kent"
+        },
+        {
+            "value": "gardiner",
+            "label": "Gardiner"
+        },
+        {
+            "value": "houlton",
+            "label": "Houlton"
+        },
+        {
+            "value": "kennebunkport",
+            "label": "Kennebunkport"
+        },
+        {
+            "value": "kittery",
+            "label": "Kittery"
+        },
+        {
+            "value": "lewiston",
+            "label": "Lewiston"
+        },
+        {
+            "value": "lubec",
+            "label": "Lubec"
+        },
+        {
+            "value": "machias",
+            "label": "Machias"
+        },
+        {
+            "value": "orono",
+            "label": "Orono"
+        },
+        {
+            "value": "portland",
+            "label": "Portland"
+        },
+        {
+            "value": "presque isle",
+            "label": "Presque Isle"
+        },
+        {
+            "value": "rockland",
+            "label": "Rockland"
+        },
+        {
+            "value": "rumford",
+            "label": "Rumford"
+        },
+        {
+            "value": "saco",
+            "label": "Saco"
+        },
+        {
+            "value": "scarborough",
+            "label": "Scarborough"
+        },
+        {
+            "value": "waterville",
+            "label": "Waterville"
+        },
+        {
+            "value": "york",
+            "label": "York"
+        }
+    ],
+    "MD": [
+        {
+            "value": "aberdeen",
+            "label": "Aberdeen"
+        },
+        {
+            "value": "annapolis",
+            "label": "Annapolis"
+        },
+        {
+            "value": "baltimore",
+            "label": "Baltimore"
+        },
+        {
+            "value": "bethesda-chevy chase",
+            "label": "Bethesda-chevy Chase"
+        },
+        {
+            "value": "bowie",
+            "label": "Bowie"
+        },
+        {
+            "value": "cambridge",
+            "label": "Cambridge"
+        },
+        {
+            "value": "catonsville",
+            "label": "Catonsville"
+        },
+        {
+            "value": "college park",
+            "label": "College Park"
+        },
+        {
+            "value": "columbia",
+            "label": "Columbia"
+        },
+        {
+            "value": "cumberland",
+            "label": "Cumberland"
+        },
+        {
+            "value": "easton",
+            "label": "Easton"
+        },
+        {
+            "value": "elkton",
+            "label": "Elkton"
+        },
+        {
+            "value": "emmitsburg",
+            "label": "Emmitsburg"
+        },
+        {
+            "value": "frederick",
+            "label": "Frederick"
+        },
+        {
+            "value": "greenbelt",
+            "label": "Greenbelt"
+        },
+        {
+            "value": "hagerstown",
+            "label": "Hagerstown"
+        },
+        {
+            "value": "hyattsville",
+            "label": "Hyattsville"
+        },
+        {
+            "value": "laurel",
+            "label": "Laurel"
+        },
+        {
+            "value": "oakland",
+            "label": "Oakland"
+        },
+        {
+            "value": "ocean city",
+            "label": "Ocean City"
+        },
+        {
+            "value": "rockville",
+            "label": "Rockville"
+        },
+        {
+            "value": "saint marys city",
+            "label": "Saint Marys City"
+        },
+        {
+            "value": "salisbury",
+            "label": "Salisbury"
+        },
+        {
+            "value": "silver spring",
+            "label": "Silver Spring"
+        },
+        {
+            "value": "takoma park",
+            "label": "Takoma Park"
+        },
+        {
+            "value": "towson",
+            "label": "Towson"
+        },
+        {
+            "value": "westminster",
+            "label": "Westminster"
+        }
+    ],
+    "MA": [
+        {
+            "value": "abington",
+            "label": "Abington"
+        },
+        {
+            "value": "adams",
+            "label": "Adams"
+        },
+        {
+            "value": "amesbury",
+            "label": "Amesbury"
+        },
+        {
+            "value": "amherst",
+            "label": "Amherst"
+        },
+        {
+            "value": "andover",
+            "label": "Andover"
+        },
+        {
+            "value": "arlington",
+            "label": "Arlington"
+        },
+        {
+            "value": "athol",
+            "label": "Athol"
+        },
+        {
+            "value": "attleboro",
+            "label": "Attleboro"
+        },
+        {
+            "value": "barnstable",
+            "label": "Barnstable"
+        },
+        {
+            "value": "bedford",
+            "label": "Bedford"
+        },
+        {
+            "value": "beverly",
+            "label": "Beverly"
+        },
+        {
+            "value": "boston",
+            "label": "Boston"
+        },
+        {
+            "value": "bourne",
+            "label": "Bourne"
+        },
+        {
+            "value": "braintree",
+            "label": "Braintree"
+        },
+        {
+            "value": "brockton",
+            "label": "Brockton"
+        },
+        {
+            "value": "brookline",
+            "label": "Brookline"
+        },
+        {
+            "value": "cambridge",
+            "label": "Cambridge"
+        },
+        {
+            "value": "canton",
+            "label": "Canton"
+        },
+        {
+            "value": "charlestown",
+            "label": "Charlestown"
+        },
+        {
+            "value": "chelmsford",
+            "label": "Chelmsford"
+        },
+        {
+            "value": "chelsea",
+            "label": "Chelsea"
+        },
+        {
+            "value": "chicopee",
+            "label": "Chicopee"
+        },
+        {
+            "value": "clinton",
+            "label": "Clinton"
+        },
+        {
+            "value": "cohasset",
+            "label": "Cohasset"
+        },
+        {
+            "value": "concord",
+            "label": "Concord"
+        },
+        {
+            "value": "danvers",
+            "label": "Danvers"
+        },
+        {
+            "value": "dartmouth",
+            "label": "Dartmouth"
+        },
+        {
+            "value": "dedham",
+            "label": "Dedham"
+        },
+        {
+            "value": "dennis",
+            "label": "Dennis"
+        },
+        {
+            "value": "duxbury",
+            "label": "Duxbury"
+        },
+        {
+            "value": "eastham",
+            "label": "Eastham"
+        },
+        {
+            "value": "edgartown",
+            "label": "Edgartown"
+        },
+        {
+            "value": "everett",
+            "label": "Everett"
+        },
+        {
+            "value": "fairhaven",
+            "label": "Fairhaven"
+        },
+        {
+            "value": "fall river",
+            "label": "Fall River"
+        },
+        {
+            "value": "falmouth",
+            "label": "Falmouth"
+        },
+        {
+            "value": "fitchburg",
+            "label": "Fitchburg"
+        },
+        {
+            "value": "framingham",
+            "label": "Framingham"
+        },
+        {
+            "value": "gloucester",
+            "label": "Gloucester"
+        },
+        {
+            "value": "great barrington",
+            "label": "Great Barrington"
+        },
+        {
+            "value": "greenfield",
+            "label": "Greenfield"
+        },
+        {
+            "value": "groton",
+            "label": "Groton"
+        },
+        {
+            "value": "harwich",
+            "label": "Harwich"
+        },
+        {
+            "value": "haverhill",
+            "label": "Haverhill"
+        },
+        {
+            "value": "hingham",
+            "label": "Hingham"
+        },
+        {
+            "value": "holyoke",
+            "label": "Holyoke"
+        },
+        {
+            "value": "hyannis",
+            "label": "Hyannis"
+        },
+        {
+            "value": "ipswich",
+            "label": "Ipswich"
+        },
+        {
+            "value": "lawrence",
+            "label": "Lawrence"
+        },
+        {
+            "value": "lenox",
+            "label": "Lenox"
+        },
+        {
+            "value": "leominster",
+            "label": "Leominster"
+        },
+        {
+            "value": "lexington",
+            "label": "Lexington"
+        },
+        {
+            "value": "lowell",
+            "label": "Lowell"
+        },
+        {
+            "value": "ludlow",
+            "label": "Ludlow"
+        },
+        {
+            "value": "lynn",
+            "label": "Lynn"
+        },
+        {
+            "value": "malden",
+            "label": "Malden"
+        },
+        {
+            "value": "marblehead",
+            "label": "Marblehead"
+        },
+        {
+            "value": "marlborough",
+            "label": "Marlborough"
+        },
+        {
+            "value": "medford",
+            "label": "Medford"
+        },
+        {
+            "value": "milton",
+            "label": "Milton"
+        },
+        {
+            "value": "nahant",
+            "label": "Nahant"
+        },
+        {
+            "value": "natick",
+            "label": "Natick"
+        },
+        {
+            "value": "new bedford",
+            "label": "New Bedford"
+        },
+        {
+            "value": "newburyport",
+            "label": "Newburyport"
+        },
+        {
+            "value": "newton",
+            "label": "Newton"
+        },
+        {
+            "value": "north adams",
+            "label": "North Adams"
+        },
+        {
+            "value": "northampton",
+            "label": "Northampton"
+        },
+        {
+            "value": "norton",
+            "label": "Norton"
+        },
+        {
+            "value": "norwood",
+            "label": "Norwood"
+        },
+        {
+            "value": "peabody",
+            "label": "Peabody"
+        },
+        {
+            "value": "pittsfield",
+            "label": "Pittsfield"
+        },
+        {
+            "value": "plymouth",
+            "label": "Plymouth"
+        },
+        {
+            "value": "provincetown",
+            "label": "Provincetown"
+        },
+        {
+            "value": "quincy",
+            "label": "Quincy"
+        },
+        {
+            "value": "randolph",
+            "label": "Randolph"
+        },
+        {
+            "value": "revere",
+            "label": "Revere"
+        },
+        {
+            "value": "salem",
+            "label": "Salem"
+        },
+        {
+            "value": "sandwich",
+            "label": "Sandwich"
+        },
+        {
+            "value": "saugus",
+            "label": "Saugus"
+        },
+        {
+            "value": "somerville",
+            "label": "Somerville"
+        },
+        {
+            "value": "south hadley",
+            "label": "South Hadley"
+        },
+        {
+            "value": "springfield",
+            "label": "Springfield"
+        },
+        {
+            "value": "stockbridge",
+            "label": "Stockbridge"
+        },
+        {
+            "value": "stoughton",
+            "label": "Stoughton"
+        },
+        {
+            "value": "sturbridge",
+            "label": "Sturbridge"
+        },
+        {
+            "value": "sudbury",
+            "label": "Sudbury"
+        },
+        {
+            "value": "taunton",
+            "label": "Taunton"
+        },
+        {
+            "value": "tewksbury",
+            "label": "Tewksbury"
+        },
+        {
+            "value": "truro",
+            "label": "Truro"
+        },
+        {
+            "value": "watertown",
+            "label": "Watertown"
+        },
+        {
+            "value": "webster",
+            "label": "Webster"
+        },
+        {
+            "value": "wellesley",
+            "label": "Wellesley"
+        },
+        {
+            "value": "wellfleet",
+            "label": "Wellfleet"
+        },
+        {
+            "value": "west bridgewater",
+            "label": "West Bridgewater"
+        },
+        {
+            "value": "west springfield",
+            "label": "West Springfield"
+        },
+        {
+            "value": "westfield",
+            "label": "Westfield"
+        },
+        {
+            "value": "weymouth",
+            "label": "Weymouth"
+        },
+        {
+            "value": "whitman",
+            "label": "Whitman"
+        },
+        {
+            "value": "williamstown",
+            "label": "Williamstown"
+        },
+        {
+            "value": "woburn",
+            "label": "Woburn"
+        },
+        {
+            "value": "woods hole",
+            "label": "Woods Hole"
+        },
+        {
+            "value": "worcester",
+            "label": "Worcester"
+        }
+    ],
+    "MI": [
+        {
+            "value": "adrian",
+            "label": "Adrian"
+        },
+        {
+            "value": "alma",
+            "label": "Alma"
+        },
+        {
+            "value": "ann arbor",
+            "label": "Ann Arbor"
+        },
+        {
+            "value": "battle creek",
+            "label": "Battle Creek"
+        },
+        {
+            "value": "bay city",
+            "label": "Bay City"
+        },
+        {
+            "value": "benton harbor",
+            "label": "Benton Harbor"
+        },
+        {
+            "value": "bloomfield hills",
+            "label": "Bloomfield Hills"
+        },
+        {
+            "value": "cadillac",
+            "label": "Cadillac"
+        },
+        {
+            "value": "charlevoix",
+            "label": "Charlevoix"
+        },
+        {
+            "value": "cheboygan",
+            "label": "Cheboygan"
+        },
+        {
+            "value": "dearborn",
+            "label": "Dearborn"
+        },
+        {
+            "value": "detroit",
+            "label": "Detroit"
+        },
+        {
+            "value": "east lansing",
+            "label": "East Lansing"
+        },
+        {
+            "value": "eastpointe",
+            "label": "Eastpointe"
+        },
+        {
+            "value": "ecorse",
+            "label": "Ecorse"
+        },
+        {
+            "value": "escanaba",
+            "label": "Escanaba"
+        },
+        {
+            "value": "flint",
+            "label": "Flint"
+        },
+        {
+            "value": "grand haven",
+            "label": "Grand Haven"
+        },
+        {
+            "value": "grand rapids",
+            "label": "Grand Rapids"
+        },
+        {
+            "value": "grayling",
+            "label": "Grayling"
+        },
+        {
+            "value": "grosse pointe",
+            "label": "Grosse Pointe"
+        },
+        {
+            "value": "hancock",
+            "label": "Hancock"
+        },
+        {
+            "value": "highland park",
+            "label": "Highland Park"
+        },
+        {
+            "value": "holland",
+            "label": "Holland"
+        },
+        {
+            "value": "houghton",
+            "label": "Houghton"
+        },
+        {
+            "value": "interlochen",
+            "label": "Interlochen"
+        },
+        {
+            "value": "iron mountain",
+            "label": "Iron Mountain"
+        },
+        {
+            "value": "ironwood",
+            "label": "Ironwood"
+        },
+        {
+            "value": "ishpeming",
+            "label": "Ishpeming"
+        },
+        {
+            "value": "jackson",
+            "label": "Jackson"
+        },
+        {
+            "value": "kalamazoo",
+            "label": "Kalamazoo"
+        },
+        {
+            "value": "lansing",
+            "label": "Lansing"
+        },
+        {
+            "value": "livonia",
+            "label": "Livonia"
+        },
+        {
+            "value": "ludington",
+            "label": "Ludington"
+        },
+        {
+            "value": "mackinaw city",
+            "label": "Mackinaw City"
+        },
+        {
+            "value": "manistee",
+            "label": "Manistee"
+        },
+        {
+            "value": "marquette",
+            "label": "Marquette"
+        },
+        {
+            "value": "menominee",
+            "label": "Menominee"
+        },
+        {
+            "value": "midland",
+            "label": "Midland"
+        },
+        {
+            "value": "monroe",
+            "label": "Monroe"
+        },
+        {
+            "value": "mount clemens",
+            "label": "Mount Clemens"
+        },
+        {
+            "value": "mount pleasant",
+            "label": "Mount Pleasant"
+        },
+        {
+            "value": "muskegon",
+            "label": "Muskegon"
+        },
+        {
+            "value": "niles",
+            "label": "Niles"
+        },
+        {
+            "value": "petoskey",
+            "label": "Petoskey"
+        },
+        {
+            "value": "pontiac",
+            "label": "Pontiac"
+        },
+        {
+            "value": "port huron",
+            "label": "Port Huron"
+        },
+        {
+            "value": "royal oak",
+            "label": "Royal Oak"
+        },
+        {
+            "value": "saginaw",
+            "label": "Saginaw"
+        },
+        {
+            "value": "saint ignace",
+            "label": "Saint Ignace"
+        },
+        {
+            "value": "saint joseph",
+            "label": "Saint Joseph"
+        },
+        {
+            "value": "sault sainte marie",
+            "label": "Sault Sainte Marie"
+        },
+        {
+            "value": "traverse city",
+            "label": "Traverse City"
+        },
+        {
+            "value": "trenton",
+            "label": "Trenton"
+        },
+        {
+            "value": "warren",
+            "label": "Warren"
+        },
+        {
+            "value": "wyandotte",
+            "label": "Wyandotte"
+        },
+        {
+            "value": "ypsilanti",
+            "label": "Ypsilanti"
+        }
+    ],
+    "MN": [
+        {
+            "value": "albert lea",
+            "label": "Albert Lea"
+        },
+        {
+            "value": "alexandria",
+            "label": "Alexandria"
+        },
+        {
+            "value": "austin",
+            "label": "Austin"
+        },
+        {
+            "value": "bemidji",
+            "label": "Bemidji"
+        },
+        {
+            "value": "bloomington",
+            "label": "Bloomington"
+        },
+        {
+            "value": "brainerd",
+            "label": "Brainerd"
+        },
+        {
+            "value": "crookston",
+            "label": "Crookston"
+        },
+        {
+            "value": "duluth",
+            "label": "Duluth"
+        },
+        {
+            "value": "ely",
+            "label": "Ely"
+        },
+        {
+            "value": "eveleth",
+            "label": "Eveleth"
+        },
+        {
+            "value": "faribault",
+            "label": "Faribault"
+        },
+        {
+            "value": "fergus falls",
+            "label": "Fergus Falls"
+        },
+        {
+            "value": "hastings",
+            "label": "Hastings"
+        },
+        {
+            "value": "hibbing",
+            "label": "Hibbing"
+        },
+        {
+            "value": "international falls",
+            "label": "International Falls"
+        },
+        {
+            "value": "little falls",
+            "label": "Little Falls"
+        },
+        {
+            "value": "mankato",
+            "label": "Mankato"
+        },
+        {
+            "value": "minneapolis",
+            "label": "Minneapolis"
+        },
+        {
+            "value": "moorhead",
+            "label": "Moorhead"
+        },
+        {
+            "value": "new ulm",
+            "label": "New Ulm"
+        },
+        {
+            "value": "northfield",
+            "label": "Northfield"
+        },
+        {
+            "value": "owatonna",
+            "label": "Owatonna"
+        },
+        {
+            "value": "pipestone",
+            "label": "Pipestone"
+        },
+        {
+            "value": "red wing",
+            "label": "Red Wing"
+        },
+        {
+            "value": "rochester",
+            "label": "Rochester"
+        },
+        {
+            "value": "saint cloud",
+            "label": "Saint Cloud"
+        },
+        {
+            "value": "saint paul",
+            "label": "Saint Paul"
+        },
+        {
+            "value": "sauk centre",
+            "label": "Sauk Centre"
+        },
+        {
+            "value": "south saint paul",
+            "label": "South Saint Paul"
+        },
+        {
+            "value": "stillwater",
+            "label": "Stillwater"
+        },
+        {
+            "value": "virginia",
+            "label": "Virginia"
+        },
+        {
+            "value": "willmar",
+            "label": "Willmar"
+        },
+        {
+            "value": "winona",
+            "label": "Winona"
+        }
+    ],
+    "MS": [
+        {
+            "value": "bay saint louis",
+            "label": "Bay Saint Louis"
+        },
+        {
+            "value": "biloxi",
+            "label": "Biloxi"
+        },
+        {
+            "value": "canton",
+            "label": "Canton"
+        },
+        {
+            "value": "clarksdale",
+            "label": "Clarksdale"
+        },
+        {
+            "value": "columbia",
+            "label": "Columbia"
+        },
+        {
+            "value": "columbus",
+            "label": "Columbus"
+        },
+        {
+            "value": "corinth",
+            "label": "Corinth"
+        },
+        {
+            "value": "greenville",
+            "label": "Greenville"
+        },
+        {
+            "value": "greenwood",
+            "label": "Greenwood"
+        },
+        {
+            "value": "grenada",
+            "label": "Grenada"
+        },
+        {
+            "value": "gulfport",
+            "label": "Gulfport"
+        },
+        {
+            "value": "hattiesburg",
+            "label": "Hattiesburg"
+        },
+        {
+            "value": "holly springs",
+            "label": "Holly Springs"
+        },
+        {
+            "value": "jackson",
+            "label": "Jackson"
+        },
+        {
+            "value": "laurel",
+            "label": "Laurel"
+        },
+        {
+            "value": "meridian",
+            "label": "Meridian"
+        },
+        {
+            "value": "natchez",
+            "label": "Natchez"
+        },
+        {
+            "value": "ocean springs",
+            "label": "Ocean Springs"
+        },
+        {
+            "value": "oxford",
+            "label": "Oxford"
+        },
+        {
+            "value": "pascagoula",
+            "label": "Pascagoula"
+        },
+        {
+            "value": "pass christian",
+            "label": "Pass Christian"
+        },
+        {
+            "value": "philadelphia",
+            "label": "Philadelphia"
+        },
+        {
+            "value": "port gibson",
+            "label": "Port Gibson"
+        },
+        {
+            "value": "starkville",
+            "label": "Starkville"
+        },
+        {
+            "value": "tupelo",
+            "label": "Tupelo"
+        },
+        {
+            "value": "vicksburg",
+            "label": "Vicksburg"
+        },
+        {
+            "value": "west point",
+            "label": "West Point"
+        },
+        {
+            "value": "yazoo city",
+            "label": "Yazoo City"
+        }
+    ],
+    "MO": [
+        {
+            "value": "boonville",
+            "label": "Boonville"
+        },
+        {
+            "value": "branson",
+            "label": "Branson"
+        },
+        {
+            "value": "cape girardeau",
+            "label": "Cape Girardeau"
+        },
+        {
+            "value": "carthage",
+            "label": "Carthage"
+        },
+        {
+            "value": "chillicothe",
+            "label": "Chillicothe"
+        },
+        {
+            "value": "clayton",
+            "label": "Clayton"
+        },
+        {
+            "value": "columbia",
+            "label": "Columbia"
+        },
+        {
+            "value": "excelsior springs",
+            "label": "Excelsior Springs"
+        },
+        {
+            "value": "ferguson",
+            "label": "Ferguson"
+        },
+        {
+            "value": "florissant",
+            "label": "Florissant"
+        },
+        {
+            "value": "fulton",
+            "label": "Fulton"
+        },
+        {
+            "value": "hannibal",
+            "label": "Hannibal"
+        },
+        {
+            "value": "independence",
+            "label": "Independence"
+        },
+        {
+            "value": "jefferson city",
+            "label": "Jefferson City"
+        },
+        {
+            "value": "joplin",
+            "label": "Joplin"
+        },
+        {
+            "value": "kansas city",
+            "label": "Kansas City"
+        },
+        {
+            "value": "kirksville",
+            "label": "Kirksville"
+        },
+        {
+            "value": "lamar",
+            "label": "Lamar"
+        },
+        {
+            "value": "lebanon",
+            "label": "Lebanon"
+        },
+        {
+            "value": "lexington",
+            "label": "Lexington"
+        },
+        {
+            "value": "maryville",
+            "label": "Maryville"
+        },
+        {
+            "value": "mexico",
+            "label": "Mexico"
+        },
+        {
+            "value": "monett",
+            "label": "Monett"
+        },
+        {
+            "value": "neosho",
+            "label": "Neosho"
+        },
+        {
+            "value": "new madrid",
+            "label": "New Madrid"
+        },
+        {
+            "value": "rolla",
+            "label": "Rolla"
+        },
+        {
+            "value": "saint charles",
+            "label": "Saint Charles"
+        },
+        {
+            "value": "saint joseph",
+            "label": "Saint Joseph"
+        },
+        {
+            "value": "saint louis",
+            "label": "Saint Louis"
+        },
+        {
+            "value": "sainte genevieve",
+            "label": "Sainte Genevieve"
+        },
+        {
+            "value": "salem",
+            "label": "Salem"
+        },
+        {
+            "value": "sedalia",
+            "label": "Sedalia"
+        },
+        {
+            "value": "springfield",
+            "label": "Springfield"
+        },
+        {
+            "value": "warrensburg",
+            "label": "Warrensburg"
+        },
+        {
+            "value": "west plains",
+            "label": "West Plains"
+        }
+    ],
+    "MT": [
+        {
+            "value": "anaconda",
+            "label": "Anaconda"
+        },
+        {
+            "value": "billings",
+            "label": "Billings"
+        },
+        {
+            "value": "bozeman",
+            "label": "Bozeman"
+        },
+        {
+            "value": "butte",
+            "label": "Butte"
+        },
+        {
+            "value": "dillon",
+            "label": "Dillon"
+        },
+        {
+            "value": "fort benton",
+            "label": "Fort Benton"
+        },
+        {
+            "value": "glendive",
+            "label": "Glendive"
+        },
+        {
+            "value": "great falls",
+            "label": "Great Falls"
+        },
+        {
+            "value": "havre",
+            "label": "Havre"
+        },
+        {
+            "value": "helena",
+            "label": "Helena"
+        },
+        {
+            "value": "kalispell",
+            "label": "Kalispell"
+        },
+        {
+            "value": "lewistown",
+            "label": "Lewistown"
+        },
+        {
+            "value": "livingston",
+            "label": "Livingston"
+        },
+        {
+            "value": "miles city",
+            "label": "Miles City"
+        },
+        {
+            "value": "missoula",
+            "label": "Missoula"
+        },
+        {
+            "value": "virginia city",
+            "label": "Virginia City"
+        }
+    ],
+    "NE": [
+        {
+            "value": "beatrice",
+            "label": "Beatrice"
+        },
+        {
+            "value": "bellevue",
+            "label": "Bellevue"
+        },
+        {
+            "value": "boys town",
+            "label": "Boys Town"
+        },
+        {
+            "value": "chadron",
+            "label": "Chadron"
+        },
+        {
+            "value": "columbus",
+            "label": "Columbus"
+        },
+        {
+            "value": "fremont",
+            "label": "Fremont"
+        },
+        {
+            "value": "grand island",
+            "label": "Grand Island"
+        },
+        {
+            "value": "hastings",
+            "label": "Hastings"
+        },
+        {
+            "value": "kearney",
+            "label": "Kearney"
+        },
+        {
+            "value": "lincoln",
+            "label": "Lincoln"
+        },
+        {
+            "value": "mccook",
+            "label": "Mccook"
+        },
+        {
+            "value": "minden",
+            "label": "Minden"
+        },
+        {
+            "value": "nebraska city",
+            "label": "Nebraska City"
+        },
+        {
+            "value": "norfolk",
+            "label": "Norfolk"
+        },
+        {
+            "value": "north platte",
+            "label": "North Platte"
+        },
+        {
+            "value": "omaha",
+            "label": "Omaha"
+        },
+        {
+            "value": "plattsmouth",
+            "label": "Plattsmouth"
+        },
+        {
+            "value": "red cloud",
+            "label": "Red Cloud"
+        },
+        {
+            "value": "sidney",
+            "label": "Sidney"
+        }
+    ],
+    "NV": [
+        {
+            "value": "boulder city",
+            "label": "Boulder City"
+        },
+        {
+            "value": "carson city",
+            "label": "Carson City"
+        },
+        {
+            "value": "elko",
+            "label": "Elko"
+        },
+        {
+            "value": "ely",
+            "label": "Ely"
+        },
+        {
+            "value": "fallon",
+            "label": "Fallon"
+        },
+        {
+            "value": "genoa",
+            "label": "Genoa"
+        },
+        {
+            "value": "goldfield",
+            "label": "Goldfield"
+        },
+        {
+            "value": "henderson",
+            "label": "Henderson"
+        },
+        {
+            "value": "las vegas",
+            "label": "Las Vegas"
+        },
+        {
+            "value": "north las vegas",
+            "label": "North Las Vegas"
+        },
+        {
+            "value": "reno",
+            "label": "Reno"
+        },
+        {
+            "value": "sparks",
+            "label": "Sparks"
+        },
+        {
+            "value": "virginia city",
+            "label": "Virginia City"
+        },
+        {
+            "value": "winnemucca",
+            "label": "Winnemucca"
+        }
+    ],
+    "NH": [
+        {
+            "value": "berlin",
+            "label": "Berlin"
+        },
+        {
+            "value": "claremont",
+            "label": "Claremont"
+        },
+        {
+            "value": "concord",
+            "label": "Concord"
+        },
+        {
+            "value": "derry",
+            "label": "Derry"
+        },
+        {
+            "value": "dover",
+            "label": "Dover"
+        },
+        {
+            "value": "durham",
+            "label": "Durham"
+        },
+        {
+            "value": "exeter",
+            "label": "Exeter"
+        },
+        {
+            "value": "franklin",
+            "label": "Franklin"
+        },
+        {
+            "value": "hanover",
+            "label": "Hanover"
+        },
+        {
+            "value": "hillsborough",
+            "label": "Hillsborough"
+        },
+        {
+            "value": "keene",
+            "label": "Keene"
+        },
+        {
+            "value": "laconia",
+            "label": "Laconia"
+        },
+        {
+            "value": "lebanon",
+            "label": "Lebanon"
+        },
+        {
+            "value": "manchester",
+            "label": "Manchester"
+        },
+        {
+            "value": "nashua",
+            "label": "Nashua"
+        },
+        {
+            "value": "peterborough",
+            "label": "Peterborough"
+        },
+        {
+            "value": "plymouth",
+            "label": "Plymouth"
+        },
+        {
+            "value": "portsmouth",
+            "label": "Portsmouth"
+        },
+        {
+            "value": "rochester",
+            "label": "Rochester"
+        },
+        {
+            "value": "salem",
+            "label": "Salem"
+        },
+        {
+            "value": "somersworth",
+            "label": "Somersworth"
+        }
+    ],
+    "NJ": [
+        {
+            "value": "asbury park",
+            "label": "Asbury Park"
+        },
+        {
+            "value": "atlantic city",
+            "label": "Atlantic City"
+        },
+        {
+            "value": "bayonne",
+            "label": "Bayonne"
+        },
+        {
+            "value": "bloomfield",
+            "label": "Bloomfield"
+        },
+        {
+            "value": "bordentown",
+            "label": "Bordentown"
+        },
+        {
+            "value": "bound brook",
+            "label": "Bound Brook"
+        },
+        {
+            "value": "bridgeton",
+            "label": "Bridgeton"
+        },
+        {
+            "value": "burlington",
+            "label": "Burlington"
+        },
+        {
+            "value": "caldwell",
+            "label": "Caldwell"
+        },
+        {
+            "value": "camden",
+            "label": "Camden"
+        },
+        {
+            "value": "cape may",
+            "label": "Cape May"
+        },
+        {
+            "value": "clifton",
+            "label": "Clifton"
+        },
+        {
+            "value": "cranford",
+            "label": "Cranford"
+        },
+        {
+            "value": "east orange",
+            "label": "East Orange"
+        },
+        {
+            "value": "edison",
+            "label": "Edison"
+        },
+        {
+            "value": "elizabeth",
+            "label": "Elizabeth"
+        },
+        {
+            "value": "englewood",
+            "label": "Englewood"
+        },
+        {
+            "value": "fort lee",
+            "label": "Fort Lee"
+        },
+        {
+            "value": "glassboro",
+            "label": "Glassboro"
+        },
+        {
+            "value": "hackensack",
+            "label": "Hackensack"
+        },
+        {
+            "value": "haddonfield",
+            "label": "Haddonfield"
+        },
+        {
+            "value": "hoboken",
+            "label": "Hoboken"
+        },
+        {
+            "value": "irvington",
+            "label": "Irvington"
+        },
+        {
+            "value": "jersey city",
+            "label": "Jersey City"
+        },
+        {
+            "value": "lakehurst",
+            "label": "Lakehurst"
+        },
+        {
+            "value": "lakewood",
+            "label": "Lakewood"
+        },
+        {
+            "value": "long beach",
+            "label": "Long Beach"
+        },
+        {
+            "value": "long branch",
+            "label": "Long Branch"
+        },
+        {
+            "value": "madison",
+            "label": "Madison"
+        },
+        {
+            "value": "menlo park",
+            "label": "Menlo Park"
+        },
+        {
+            "value": "millburn",
+            "label": "Millburn"
+        },
+        {
+            "value": "millville",
+            "label": "Millville"
+        },
+        {
+            "value": "montclair",
+            "label": "Montclair"
+        },
+        {
+            "value": "morristown",
+            "label": "Morristown"
+        },
+        {
+            "value": "mount holly",
+            "label": "Mount Holly"
+        },
+        {
+            "value": "new brunswick",
+            "label": "New Brunswick"
+        },
+        {
+            "value": "new milford",
+            "label": "New Milford"
+        },
+        {
+            "value": "newark",
+            "label": "Newark"
+        },
+        {
+            "value": "ocean city",
+            "label": "Ocean City"
+        },
+        {
+            "value": "orange",
+            "label": "Orange"
+        },
+        {
+            "value": "parsippany–troy hills",
+            "label": "Parsippany–troy Hills"
+        },
+        {
+            "value": "passaic",
+            "label": "Passaic"
+        },
+        {
+            "value": "paterson",
+            "label": "Paterson"
+        },
+        {
+            "value": "perth amboy",
+            "label": "Perth Amboy"
+        },
+        {
+            "value": "plainfield",
+            "label": "Plainfield"
+        },
+        {
+            "value": "princeton",
+            "label": "Princeton"
+        },
+        {
+            "value": "ridgewood",
+            "label": "Ridgewood"
+        },
+        {
+            "value": "roselle",
+            "label": "Roselle"
+        },
+        {
+            "value": "rutherford",
+            "label": "Rutherford"
+        },
+        {
+            "value": "salem",
+            "label": "Salem"
+        },
+        {
+            "value": "somerville",
+            "label": "Somerville"
+        },
+        {
+            "value": "south orange village",
+            "label": "South Orange Village"
+        },
+        {
+            "value": "totowa",
+            "label": "Totowa"
+        },
+        {
+            "value": "trenton",
+            "label": "Trenton"
+        },
+        {
+            "value": "union",
+            "label": "Union"
+        },
+        {
+            "value": "union city",
+            "label": "Union City"
+        },
+        {
+            "value": "vineland",
+            "label": "Vineland"
+        },
+        {
+            "value": "wayne",
+            "label": "Wayne"
+        },
+        {
+            "value": "weehawken",
+            "label": "Weehawken"
+        },
+        {
+            "value": "west new york",
+            "label": "West New York"
+        },
+        {
+            "value": "west orange",
+            "label": "West Orange"
+        },
+        {
+            "value": "willingboro",
+            "label": "Willingboro"
+        },
+        {
+            "value": "woodbridge",
+            "label": "Woodbridge"
+        }
+    ],
+    "NM": [
+        {
+            "value": "acoma",
+            "label": "Acoma"
+        },
+        {
+            "value": "alamogordo",
+            "label": "Alamogordo"
+        },
+        {
+            "value": "albuquerque",
+            "label": "Albuquerque"
+        },
+        {
+            "value": "artesia",
+            "label": "Artesia"
+        },
+        {
+            "value": "belen",
+            "label": "Belen"
+        },
+        {
+            "value": "carlsbad",
+            "label": "Carlsbad"
+        },
+        {
+            "value": "clovis",
+            "label": "Clovis"
+        },
+        {
+            "value": "deming",
+            "label": "Deming"
+        },
+        {
+            "value": "farmington",
+            "label": "Farmington"
+        },
+        {
+            "value": "gallup",
+            "label": "Gallup"
+        },
+        {
+            "value": "grants",
+            "label": "Grants"
+        },
+        {
+            "value": "hobbs",
+            "label": "Hobbs"
+        },
+        {
+            "value": "las cruces",
+            "label": "Las Cruces"
+        },
+        {
+            "value": "las vegas",
+            "label": "Las Vegas"
+        },
+        {
+            "value": "los alamos",
+            "label": "Los Alamos"
+        },
+        {
+            "value": "lovington",
+            "label": "Lovington"
+        },
+        {
+            "value": "portales",
+            "label": "Portales"
+        },
+        {
+            "value": "raton",
+            "label": "Raton"
+        },
+        {
+            "value": "roswell",
+            "label": "Roswell"
+        },
+        {
+            "value": "santa fe",
+            "label": "Santa Fe"
+        },
+        {
+            "value": "shiprock",
+            "label": "Shiprock"
+        },
+        {
+            "value": "silver city",
+            "label": "Silver City"
+        },
+        {
+            "value": "socorro",
+            "label": "Socorro"
+        },
+        {
+            "value": "taos",
+            "label": "Taos"
+        },
+        {
+            "value": "truth or consequences",
+            "label": "Truth Or Consequences"
+        },
+        {
+            "value": "tucumcari",
+            "label": "Tucumcari"
+        }
+    ],
+    "NY": [
+        {
+            "value": "albany",
+            "label": "Albany"
+        },
+        {
+            "value": "amsterdam",
+            "label": "Amsterdam"
+        },
+        {
+            "value": "auburn",
+            "label": "Auburn"
+        },
+        {
+            "value": "babylon",
+            "label": "Babylon"
+        },
+        {
+            "value": "batavia",
+            "label": "Batavia"
+        },
+        {
+            "value": "beacon",
+            "label": "Beacon"
+        },
+        {
+            "value": "bedford",
+            "label": "Bedford"
+        },
+        {
+            "value": "binghamton",
+            "label": "Binghamton"
+        },
+        {
+            "value": "bronx",
+            "label": "Bronx"
+        },
+        {
+            "value": "brooklyn",
+            "label": "Brooklyn"
+        },
+        {
+            "value": "buffalo",
+            "label": "Buffalo"
+        },
+        {
+            "value": "chautauqua",
+            "label": "Chautauqua"
+        },
+        {
+            "value": "cheektowaga",
+            "label": "Cheektowaga"
+        },
+        {
+            "value": "clinton",
+            "label": "Clinton"
+        },
+        {
+            "value": "cohoes",
+            "label": "Cohoes"
+        },
+        {
+            "value": "coney island",
+            "label": "Coney Island"
+        },
+        {
+            "value": "cooperstown",
+            "label": "Cooperstown"
+        },
+        {
+            "value": "corning",
+            "label": "Corning"
+        },
+        {
+            "value": "cortland",
+            "label": "Cortland"
+        },
+        {
+            "value": "crown point",
+            "label": "Crown Point"
+        },
+        {
+            "value": "dunkirk",
+            "label": "Dunkirk"
+        },
+        {
+            "value": "east aurora",
+            "label": "East Aurora"
+        },
+        {
+            "value": "east hampton",
+            "label": "East Hampton"
+        },
+        {
+            "value": "eastchester",
+            "label": "Eastchester"
+        },
+        {
+            "value": "elmira",
+            "label": "Elmira"
+        },
+        {
+            "value": "flushing",
+            "label": "Flushing"
+        },
+        {
+            "value": "forest hills",
+            "label": "Forest Hills"
+        },
+        {
+            "value": "fredonia",
+            "label": "Fredonia"
+        },
+        {
+            "value": "garden city",
+            "label": "Garden City"
+        },
+        {
+            "value": "geneva",
+            "label": "Geneva"
+        },
+        {
+            "value": "glens falls",
+            "label": "Glens Falls"
+        },
+        {
+            "value": "gloversville",
+            "label": "Gloversville"
+        },
+        {
+            "value": "great neck",
+            "label": "Great Neck"
+        },
+        {
+            "value": "hammondsport",
+            "label": "Hammondsport"
+        },
+        {
+            "value": "harlem",
+            "label": "Harlem"
+        },
+        {
+            "value": "hempstead",
+            "label": "Hempstead"
+        },
+        {
+            "value": "herkimer",
+            "label": "Herkimer"
+        },
+        {
+            "value": "hudson",
+            "label": "Hudson"
+        },
+        {
+            "value": "huntington",
+            "label": "Huntington"
+        },
+        {
+            "value": "hyde park",
+            "label": "Hyde Park"
+        },
+        {
+            "value": "ilion",
+            "label": "Ilion"
+        },
+        {
+            "value": "ithaca",
+            "label": "Ithaca"
+        },
+        {
+            "value": "jamestown",
+            "label": "Jamestown"
+        },
+        {
+            "value": "johnstown",
+            "label": "Johnstown"
+        },
+        {
+            "value": "kingston",
+            "label": "Kingston"
+        },
+        {
+            "value": "lackawanna",
+            "label": "Lackawanna"
+        },
+        {
+            "value": "lake placid",
+            "label": "Lake Placid"
+        },
+        {
+            "value": "levittown",
+            "label": "Levittown"
+        },
+        {
+            "value": "lockport",
+            "label": "Lockport"
+        },
+        {
+            "value": "mamaroneck",
+            "label": "Mamaroneck"
+        },
+        {
+            "value": "manhattan",
+            "label": "Manhattan"
+        },
+        {
+            "value": "massena",
+            "label": "Massena"
+        },
+        {
+            "value": "middletown",
+            "label": "Middletown"
+        },
+        {
+            "value": "mineola",
+            "label": "Mineola"
+        },
+        {
+            "value": "mount vernon",
+            "label": "Mount Vernon"
+        },
+        {
+            "value": "new paltz",
+            "label": "New Paltz"
+        },
+        {
+            "value": "new rochelle",
+            "label": "New Rochelle"
+        },
+        {
+            "value": "new windsor",
+            "label": "New Windsor"
+        },
+        {
+            "value": "new york city",
+            "label": "New York City"
+        },
+        {
+            "value": "newburgh",
+            "label": "Newburgh"
+        },
+        {
+            "value": "niagara falls",
+            "label": "Niagara Falls"
+        },
+        {
+            "value": "north hempstead",
+            "label": "North Hempstead"
+        },
+        {
+            "value": "nyack",
+            "label": "Nyack"
+        },
+        {
+            "value": "ogdensburg",
+            "label": "Ogdensburg"
+        },
+        {
+            "value": "olean",
+            "label": "Olean"
+        },
+        {
+            "value": "oneida",
+            "label": "Oneida"
+        },
+        {
+            "value": "oneonta",
+            "label": "Oneonta"
+        },
+        {
+            "value": "ossining",
+            "label": "Ossining"
+        },
+        {
+            "value": "oswego",
+            "label": "Oswego"
+        },
+        {
+            "value": "oyster bay",
+            "label": "Oyster Bay"
+        },
+        {
+            "value": "palmyra",
+            "label": "Palmyra"
+        },
+        {
+            "value": "peekskill",
+            "label": "Peekskill"
+        },
+        {
+            "value": "plattsburgh",
+            "label": "Plattsburgh"
+        },
+        {
+            "value": "port washington",
+            "label": "Port Washington"
+        },
+        {
+            "value": "potsdam",
+            "label": "Potsdam"
+        },
+        {
+            "value": "poughkeepsie",
+            "label": "Poughkeepsie"
+        },
+        {
+            "value": "queens",
+            "label": "Queens"
+        },
+        {
+            "value": "rensselaer",
+            "label": "Rensselaer"
+        },
+        {
+            "value": "rochester",
+            "label": "Rochester"
+        },
+        {
+            "value": "rome",
+            "label": "Rome"
+        },
+        {
+            "value": "rotterdam",
+            "label": "Rotterdam"
+        },
+        {
+            "value": "rye",
+            "label": "Rye"
+        },
+        {
+            "value": "sag harbor",
+            "label": "Sag Harbor"
+        },
+        {
+            "value": "saranac lake",
+            "label": "Saranac Lake"
+        },
+        {
+            "value": "saratoga springs",
+            "label": "Saratoga Springs"
+        },
+        {
+            "value": "scarsdale",
+            "label": "Scarsdale"
+        },
+        {
+            "value": "schenectady",
+            "label": "Schenectady"
+        },
+        {
+            "value": "seneca falls",
+            "label": "Seneca Falls"
+        },
+        {
+            "value": "southampton",
+            "label": "Southampton"
+        },
+        {
+            "value": "staten island",
+            "label": "Staten Island"
+        },
+        {
+            "value": "stony brook",
+            "label": "Stony Brook"
+        },
+        {
+            "value": "stony point",
+            "label": "Stony Point"
+        },
+        {
+            "value": "syracuse",
+            "label": "Syracuse"
+        },
+        {
+            "value": "tarrytown",
+            "label": "Tarrytown"
+        },
+        {
+            "value": "ticonderoga",
+            "label": "Ticonderoga"
+        },
+        {
+            "value": "tonawanda",
+            "label": "Tonawanda"
+        },
+        {
+            "value": "troy",
+            "label": "Troy"
+        },
+        {
+            "value": "utica",
+            "label": "Utica"
+        },
+        {
+            "value": "watertown",
+            "label": "Watertown"
+        },
+        {
+            "value": "watervliet",
+            "label": "Watervliet"
+        },
+        {
+            "value": "watkins glen",
+            "label": "Watkins Glen"
+        },
+        {
+            "value": "west seneca",
+            "label": "West Seneca"
+        },
+        {
+            "value": "white plains",
+            "label": "White Plains"
+        },
+        {
+            "value": "woodstock",
+            "label": "Woodstock"
+        },
+        {
+            "value": "yonkers",
+            "label": "Yonkers"
+        }
+    ],
+    "NC": [
+        {
+            "value": "asheboro",
+            "label": "Asheboro"
+        },
+        {
+            "value": "asheville",
+            "label": "Asheville"
+        },
+        {
+            "value": "bath",
+            "label": "Bath"
+        },
+        {
+            "value": "beaufort",
+            "label": "Beaufort"
+        },
+        {
+            "value": "boone",
+            "label": "Boone"
+        },
+        {
+            "value": "burlington",
+            "label": "Burlington"
+        },
+        {
+            "value": "chapel hill",
+            "label": "Chapel Hill"
+        },
+        {
+            "value": "charlotte",
+            "label": "Charlotte"
+        },
+        {
+            "value": "concord",
+            "label": "Concord"
+        },
+        {
+            "value": "durham",
+            "label": "Durham"
+        },
+        {
+            "value": "edenton",
+            "label": "Edenton"
+        },
+        {
+            "value": "elizabeth city",
+            "label": "Elizabeth City"
+        },
+        {
+            "value": "fayetteville",
+            "label": "Fayetteville"
+        },
+        {
+            "value": "gastonia",
+            "label": "Gastonia"
+        },
+        {
+            "value": "goldsboro",
+            "label": "Goldsboro"
+        },
+        {
+            "value": "greensboro",
+            "label": "Greensboro"
+        },
+        {
+            "value": "greenville",
+            "label": "Greenville"
+        },
+        {
+            "value": "halifax",
+            "label": "Halifax"
+        },
+        {
+            "value": "henderson",
+            "label": "Henderson"
+        },
+        {
+            "value": "hickory",
+            "label": "Hickory"
+        },
+        {
+            "value": "high point",
+            "label": "High Point"
+        },
+        {
+            "value": "hillsborough",
+            "label": "Hillsborough"
+        },
+        {
+            "value": "jacksonville",
+            "label": "Jacksonville"
+        },
+        {
+            "value": "kinston",
+            "label": "Kinston"
+        },
+        {
+            "value": "kitty hawk",
+            "label": "Kitty Hawk"
+        },
+        {
+            "value": "lumberton",
+            "label": "Lumberton"
+        },
+        {
+            "value": "morehead city",
+            "label": "Morehead City"
+        },
+        {
+            "value": "morganton",
+            "label": "Morganton"
+        },
+        {
+            "value": "nags head",
+            "label": "Nags Head"
+        },
+        {
+            "value": "new bern",
+            "label": "New Bern"
+        },
+        {
+            "value": "pinehurst",
+            "label": "Pinehurst"
+        },
+        {
+            "value": "raleigh",
+            "label": "Raleigh"
+        },
+        {
+            "value": "rocky mount",
+            "label": "Rocky Mount"
+        },
+        {
+            "value": "salisbury",
+            "label": "Salisbury"
+        },
+        {
+            "value": "shelby",
+            "label": "Shelby"
+        },
+        {
+            "value": "washington",
+            "label": "Washington"
+        },
+        {
+            "value": "wilmington",
+            "label": "Wilmington"
+        },
+        {
+            "value": "wilson",
+            "label": "Wilson"
+        },
+        {
+            "value": "winston-salem",
+            "label": "Winston-salem"
+        }
+    ],
+    "ND": [
+        {
+            "value": "bismarck",
+            "label": "Bismarck"
+        },
+        {
+            "value": "devils lake",
+            "label": "Devils Lake"
+        },
+        {
+            "value": "dickinson",
+            "label": "Dickinson"
+        },
+        {
+            "value": "fargo",
+            "label": "Fargo"
+        },
+        {
+            "value": "grand forks",
+            "label": "Grand Forks"
+        },
+        {
+            "value": "jamestown",
+            "label": "Jamestown"
+        },
+        {
+            "value": "mandan",
+            "label": "Mandan"
+        },
+        {
+            "value": "minot",
+            "label": "Minot"
+        },
+        {
+            "value": "rugby",
+            "label": "Rugby"
+        },
+        {
+            "value": "valley city",
+            "label": "Valley City"
+        },
+        {
+            "value": "wahpeton",
+            "label": "Wahpeton"
+        },
+        {
+            "value": "williston",
+            "label": "Williston"
+        }
+    ],
+    "OH": [
+        {
+            "value": "akron",
+            "label": "Akron"
+        },
+        {
+            "value": "alliance",
+            "label": "Alliance"
+        },
+        {
+            "value": "ashtabula",
+            "label": "Ashtabula"
+        },
+        {
+            "value": "athens",
+            "label": "Athens"
+        },
+        {
+            "value": "barberton",
+            "label": "Barberton"
+        },
+        {
+            "value": "bedford",
+            "label": "Bedford"
+        },
+        {
+            "value": "bellefontaine",
+            "label": "Bellefontaine"
+        },
+        {
+            "value": "bowling green",
+            "label": "Bowling Green"
+        },
+        {
+            "value": "canton",
+            "label": "Canton"
+        },
+        {
+            "value": "chillicothe",
+            "label": "Chillicothe"
+        },
+        {
+            "value": "cincinnati",
+            "label": "Cincinnati"
+        },
+        {
+            "value": "cleveland",
+            "label": "Cleveland"
+        },
+        {
+            "value": "cleveland heights",
+            "label": "Cleveland Heights"
+        },
+        {
+            "value": "columbus",
+            "label": "Columbus"
+        },
+        {
+            "value": "conneaut",
+            "label": "Conneaut"
+        },
+        {
+            "value": "cuyahoga falls",
+            "label": "Cuyahoga Falls"
+        },
+        {
+            "value": "dayton",
+            "label": "Dayton"
+        },
+        {
+            "value": "defiance",
+            "label": "Defiance"
+        },
+        {
+            "value": "delaware",
+            "label": "Delaware"
+        },
+        {
+            "value": "east cleveland",
+            "label": "East Cleveland"
+        },
+        {
+            "value": "east liverpool",
+            "label": "East Liverpool"
+        },
+        {
+            "value": "elyria",
+            "label": "Elyria"
+        },
+        {
+            "value": "euclid",
+            "label": "Euclid"
+        },
+        {
+            "value": "findlay",
+            "label": "Findlay"
+        },
+        {
+            "value": "gallipolis",
+            "label": "Gallipolis"
+        },
+        {
+            "value": "greenville",
+            "label": "Greenville"
+        },
+        {
+            "value": "hamilton",
+            "label": "Hamilton"
+        },
+        {
+            "value": "kent",
+            "label": "Kent"
+        },
+        {
+            "value": "kettering",
+            "label": "Kettering"
+        },
+        {
+            "value": "lakewood",
+            "label": "Lakewood"
+        },
+        {
+            "value": "lancaster",
+            "label": "Lancaster"
+        },
+        {
+            "value": "lima",
+            "label": "Lima"
+        },
+        {
+            "value": "lorain",
+            "label": "Lorain"
+        },
+        {
+            "value": "mansfield",
+            "label": "Mansfield"
+        },
+        {
+            "value": "marietta",
+            "label": "Marietta"
+        },
+        {
+            "value": "marion",
+            "label": "Marion"
+        },
+        {
+            "value": "martins ferry",
+            "label": "Martins Ferry"
+        },
+        {
+            "value": "massillon",
+            "label": "Massillon"
+        },
+        {
+            "value": "mentor",
+            "label": "Mentor"
+        },
+        {
+            "value": "middletown",
+            "label": "Middletown"
+        },
+        {
+            "value": "milan",
+            "label": "Milan"
+        },
+        {
+            "value": "mount vernon",
+            "label": "Mount Vernon"
+        },
+        {
+            "value": "new philadelphia",
+            "label": "New Philadelphia"
+        },
+        {
+            "value": "newark",
+            "label": "Newark"
+        },
+        {
+            "value": "niles",
+            "label": "Niles"
+        },
+        {
+            "value": "north college hill",
+            "label": "North College Hill"
+        },
+        {
+            "value": "norwalk",
+            "label": "Norwalk"
+        },
+        {
+            "value": "oberlin",
+            "label": "Oberlin"
+        },
+        {
+            "value": "painesville",
+            "label": "Painesville"
+        },
+        {
+            "value": "parma",
+            "label": "Parma"
+        },
+        {
+            "value": "piqua",
+            "label": "Piqua"
+        },
+        {
+            "value": "portsmouth",
+            "label": "Portsmouth"
+        },
+        {
+            "value": "put-in-bay",
+            "label": "Put-in-bay"
+        },
+        {
+            "value": "salem",
+            "label": "Salem"
+        },
+        {
+            "value": "sandusky",
+            "label": "Sandusky"
+        },
+        {
+            "value": "shaker heights",
+            "label": "Shaker Heights"
+        },
+        {
+            "value": "springfield",
+            "label": "Springfield"
+        },
+        {
+            "value": "steubenville",
+            "label": "Steubenville"
+        },
+        {
+            "value": "tiffin",
+            "label": "Tiffin"
+        },
+        {
+            "value": "toledo",
+            "label": "Toledo"
+        },
+        {
+            "value": "urbana",
+            "label": "Urbana"
+        },
+        {
+            "value": "warren",
+            "label": "Warren"
+        },
+        {
+            "value": "wooster",
+            "label": "Wooster"
+        },
+        {
+            "value": "worthington",
+            "label": "Worthington"
+        },
+        {
+            "value": "xenia",
+            "label": "Xenia"
+        },
+        {
+            "value": "yellow springs",
+            "label": "Yellow Springs"
+        },
+        {
+            "value": "youngstown",
+            "label": "Youngstown"
+        },
+        {
+            "value": "zanesville",
+            "label": "Zanesville"
+        }
+    ],
+    "OK": [
+        {
+            "value": "ada",
+            "label": "Ada"
+        },
+        {
+            "value": "altus",
+            "label": "Altus"
+        },
+        {
+            "value": "alva",
+            "label": "Alva"
+        },
+        {
+            "value": "anadarko",
+            "label": "Anadarko"
+        },
+        {
+            "value": "ardmore",
+            "label": "Ardmore"
+        },
+        {
+            "value": "bartlesville",
+            "label": "Bartlesville"
+        },
+        {
+            "value": "bethany",
+            "label": "Bethany"
+        },
+        {
+            "value": "chickasha",
+            "label": "Chickasha"
+        },
+        {
+            "value": "claremore",
+            "label": "Claremore"
+        },
+        {
+            "value": "clinton",
+            "label": "Clinton"
+        },
+        {
+            "value": "cushing",
+            "label": "Cushing"
+        },
+        {
+            "value": "duncan",
+            "label": "Duncan"
+        },
+        {
+            "value": "durant",
+            "label": "Durant"
+        },
+        {
+            "value": "edmond",
+            "label": "Edmond"
+        },
+        {
+            "value": "el reno",
+            "label": "El Reno"
+        },
+        {
+            "value": "elk city",
+            "label": "Elk City"
+        },
+        {
+            "value": "enid",
+            "label": "Enid"
+        },
+        {
+            "value": "eufaula",
+            "label": "Eufaula"
+        },
+        {
+            "value": "frederick",
+            "label": "Frederick"
+        },
+        {
+            "value": "guthrie",
+            "label": "Guthrie"
+        },
+        {
+            "value": "guymon",
+            "label": "Guymon"
+        },
+        {
+            "value": "hobart",
+            "label": "Hobart"
+        },
+        {
+            "value": "holdenville",
+            "label": "Holdenville"
+        },
+        {
+            "value": "hugo",
+            "label": "Hugo"
+        },
+        {
+            "value": "lawton",
+            "label": "Lawton"
+        },
+        {
+            "value": "mcalester",
+            "label": "Mcalester"
+        },
+        {
+            "value": "miami",
+            "label": "Miami"
+        },
+        {
+            "value": "midwest city",
+            "label": "Midwest City"
+        },
+        {
+            "value": "moore",
+            "label": "Moore"
+        },
+        {
+            "value": "muskogee",
+            "label": "Muskogee"
+        },
+        {
+            "value": "norman",
+            "label": "Norman"
+        },
+        {
+            "value": "oklahoma city",
+            "label": "Oklahoma City"
+        },
+        {
+            "value": "okmulgee",
+            "label": "Okmulgee"
+        },
+        {
+            "value": "pauls valley",
+            "label": "Pauls Valley"
+        },
+        {
+            "value": "pawhuska",
+            "label": "Pawhuska"
+        },
+        {
+            "value": "perry",
+            "label": "Perry"
+        },
+        {
+            "value": "ponca city",
+            "label": "Ponca City"
+        },
+        {
+            "value": "pryor",
+            "label": "Pryor"
+        },
+        {
+            "value": "sallisaw",
+            "label": "Sallisaw"
+        },
+        {
+            "value": "sand springs",
+            "label": "Sand Springs"
+        },
+        {
+            "value": "sapulpa",
+            "label": "Sapulpa"
+        },
+        {
+            "value": "seminole",
+            "label": "Seminole"
+        },
+        {
+            "value": "shawnee",
+            "label": "Shawnee"
+        },
+        {
+            "value": "stillwater",
+            "label": "Stillwater"
+        },
+        {
+            "value": "tahlequah",
+            "label": "Tahlequah"
+        },
+        {
+            "value": "the village",
+            "label": "The Village"
+        },
+        {
+            "value": "tulsa",
+            "label": "Tulsa"
+        },
+        {
+            "value": "vinita",
+            "label": "Vinita"
+        },
+        {
+            "value": "wewoka",
+            "label": "Wewoka"
+        },
+        {
+            "value": "woodward",
+            "label": "Woodward"
+        }
+    ],
+    "OR": [
+        {
+            "value": "albany",
+            "label": "Albany"
+        },
+        {
+            "value": "ashland",
+            "label": "Ashland"
+        },
+        {
+            "value": "astoria",
+            "label": "Astoria"
+        },
+        {
+            "value": "baker city",
+            "label": "Baker City"
+        },
+        {
+            "value": "beaverton",
+            "label": "Beaverton"
+        },
+        {
+            "value": "bend",
+            "label": "Bend"
+        },
+        {
+            "value": "brookings",
+            "label": "Brookings"
+        },
+        {
+            "value": "burns",
+            "label": "Burns"
+        },
+        {
+            "value": "coos bay",
+            "label": "Coos Bay"
+        },
+        {
+            "value": "corvallis",
+            "label": "Corvallis"
+        },
+        {
+            "value": "eugene",
+            "label": "Eugene"
+        },
+        {
+            "value": "grants pass",
+            "label": "Grants Pass"
+        },
+        {
+            "value": "hillsboro",
+            "label": "Hillsboro"
+        },
+        {
+            "value": "hood river",
+            "label": "Hood River"
+        },
+        {
+            "value": "jacksonville",
+            "label": "Jacksonville"
+        },
+        {
+            "value": "john day",
+            "label": "John Day"
+        },
+        {
+            "value": "klamath falls",
+            "label": "Klamath Falls"
+        },
+        {
+            "value": "la grande",
+            "label": "La Grande"
+        },
+        {
+            "value": "lake oswego",
+            "label": "Lake Oswego"
+        },
+        {
+            "value": "lakeview",
+            "label": "Lakeview"
+        },
+        {
+            "value": "mcminnville",
+            "label": "Mcminnville"
+        },
+        {
+            "value": "medford",
+            "label": "Medford"
+        },
+        {
+            "value": "newberg",
+            "label": "Newberg"
+        },
+        {
+            "value": "newport",
+            "label": "Newport"
+        },
+        {
+            "value": "ontario",
+            "label": "Ontario"
+        },
+        {
+            "value": "oregon city",
+            "label": "Oregon City"
+        },
+        {
+            "value": "pendleton",
+            "label": "Pendleton"
+        },
+        {
+            "value": "port orford",
+            "label": "Port Orford"
+        },
+        {
+            "value": "portland",
+            "label": "Portland"
+        },
+        {
+            "value": "prineville",
+            "label": "Prineville"
+        },
+        {
+            "value": "redmond",
+            "label": "Redmond"
+        },
+        {
+            "value": "reedsport",
+            "label": "Reedsport"
+        },
+        {
+            "value": "roseburg",
+            "label": "Roseburg"
+        },
+        {
+            "value": "salem",
+            "label": "Salem"
+        },
+        {
+            "value": "seaside",
+            "label": "Seaside"
+        },
+        {
+            "value": "springfield",
+            "label": "Springfield"
+        },
+        {
+            "value": "the dalles",
+            "label": "The Dalles"
+        },
+        {
+            "value": "tillamook",
+            "label": "Tillamook"
+        }
+    ],
+    "PA": [
+        {
+            "value": "abington",
+            "label": "Abington"
+        },
+        {
+            "value": "aliquippa",
+            "label": "Aliquippa"
+        },
+        {
+            "value": "allentown",
+            "label": "Allentown"
+        },
+        {
+            "value": "altoona",
+            "label": "Altoona"
+        },
+        {
+            "value": "ambridge",
+            "label": "Ambridge"
+        },
+        {
+            "value": "bedford",
+            "label": "Bedford"
+        },
+        {
+            "value": "bethlehem",
+            "label": "Bethlehem"
+        },
+        {
+            "value": "bloomsburg",
+            "label": "Bloomsburg"
+        },
+        {
+            "value": "bradford",
+            "label": "Bradford"
+        },
+        {
+            "value": "bristol",
+            "label": "Bristol"
+        },
+        {
+            "value": "carbondale",
+            "label": "Carbondale"
+        },
+        {
+            "value": "carlisle",
+            "label": "Carlisle"
+        },
+        {
+            "value": "chambersburg",
+            "label": "Chambersburg"
+        },
+        {
+            "value": "chester",
+            "label": "Chester"
+        },
+        {
+            "value": "columbia",
+            "label": "Columbia"
+        },
+        {
+            "value": "easton",
+            "label": "Easton"
+        },
+        {
+            "value": "erie",
+            "label": "Erie"
+        },
+        {
+            "value": "franklin",
+            "label": "Franklin"
+        },
+        {
+            "value": "germantown",
+            "label": "Germantown"
+        },
+        {
+            "value": "gettysburg",
+            "label": "Gettysburg"
+        },
+        {
+            "value": "greensburg",
+            "label": "Greensburg"
+        },
+        {
+            "value": "hanover",
+            "label": "Hanover"
+        },
+        {
+            "value": "harmony",
+            "label": "Harmony"
+        },
+        {
+            "value": "harrisburg",
+            "label": "Harrisburg"
+        },
+        {
+            "value": "hazleton",
+            "label": "Hazleton"
+        },
+        {
+            "value": "hershey",
+            "label": "Hershey"
+        },
+        {
+            "value": "homestead",
+            "label": "Homestead"
+        },
+        {
+            "value": "honesdale",
+            "label": "Honesdale"
+        },
+        {
+            "value": "indiana",
+            "label": "Indiana"
+        },
+        {
+            "value": "jeannette",
+            "label": "Jeannette"
+        },
+        {
+            "value": "jim thorpe",
+            "label": "Jim Thorpe"
+        },
+        {
+            "value": "johnstown",
+            "label": "Johnstown"
+        },
+        {
+            "value": "lancaster",
+            "label": "Lancaster"
+        },
+        {
+            "value": "lebanon",
+            "label": "Lebanon"
+        },
+        {
+            "value": "levittown",
+            "label": "Levittown"
+        },
+        {
+            "value": "lewistown",
+            "label": "Lewistown"
+        },
+        {
+            "value": "lock haven",
+            "label": "Lock Haven"
+        },
+        {
+            "value": "lower southampton",
+            "label": "Lower Southampton"
+        },
+        {
+            "value": "mckeesport",
+            "label": "Mckeesport"
+        },
+        {
+            "value": "meadville",
+            "label": "Meadville"
+        },
+        {
+            "value": "middletown",
+            "label": "Middletown"
+        },
+        {
+            "value": "monroeville",
+            "label": "Monroeville"
+        },
+        {
+            "value": "nanticoke",
+            "label": "Nanticoke"
+        },
+        {
+            "value": "new castle",
+            "label": "New Castle"
+        },
+        {
+            "value": "new hope",
+            "label": "New Hope"
+        },
+        {
+            "value": "new kensington",
+            "label": "New Kensington"
+        },
+        {
+            "value": "norristown",
+            "label": "Norristown"
+        },
+        {
+            "value": "oil city",
+            "label": "Oil City"
+        },
+        {
+            "value": "philadelphia",
+            "label": "Philadelphia"
+        },
+        {
+            "value": "phoenixville",
+            "label": "Phoenixville"
+        },
+        {
+            "value": "pittsburgh",
+            "label": "Pittsburgh"
+        },
+        {
+            "value": "pottstown",
+            "label": "Pottstown"
+        },
+        {
+            "value": "pottsville",
+            "label": "Pottsville"
+        },
+        {
+            "value": "reading",
+            "label": "Reading"
+        },
+        {
+            "value": "scranton",
+            "label": "Scranton"
+        },
+        {
+            "value": "shamokin",
+            "label": "Shamokin"
+        },
+        {
+            "value": "sharon",
+            "label": "Sharon"
+        },
+        {
+            "value": "state college",
+            "label": "State College"
+        },
+        {
+            "value": "stroudsburg",
+            "label": "Stroudsburg"
+        },
+        {
+            "value": "sunbury",
+            "label": "Sunbury"
+        },
+        {
+            "value": "swarthmore",
+            "label": "Swarthmore"
+        },
+        {
+            "value": "tamaqua",
+            "label": "Tamaqua"
+        },
+        {
+            "value": "titusville",
+            "label": "Titusville"
+        },
+        {
+            "value": "uniontown",
+            "label": "Uniontown"
+        },
+        {
+            "value": "warren",
+            "label": "Warren"
+        },
+        {
+            "value": "washington",
+            "label": "Washington"
+        },
+        {
+            "value": "west chester",
+            "label": "West Chester"
+        },
+        {
+            "value": "wilkes-barre",
+            "label": "Wilkes-barre"
+        },
+        {
+            "value": "williamsport",
+            "label": "Williamsport"
+        },
+        {
+            "value": "york",
+            "label": "York"
+        }
+    ],
+    "RI": [
+        {
+            "value": "barrington",
+            "label": "Barrington"
+        },
+        {
+            "value": "bristol",
+            "label": "Bristol"
+        },
+        {
+            "value": "central falls",
+            "label": "Central Falls"
+        },
+        {
+            "value": "cranston",
+            "label": "Cranston"
+        },
+        {
+            "value": "east greenwich",
+            "label": "East Greenwich"
+        },
+        {
+            "value": "east providence",
+            "label": "East Providence"
+        },
+        {
+            "value": "kingston",
+            "label": "Kingston"
+        },
+        {
+            "value": "middletown",
+            "label": "Middletown"
+        },
+        {
+            "value": "narragansett",
+            "label": "Narragansett"
+        },
+        {
+            "value": "newport",
+            "label": "Newport"
+        },
+        {
+            "value": "north kingstown",
+            "label": "North Kingstown"
+        },
+        {
+            "value": "pawtucket",
+            "label": "Pawtucket"
+        },
+        {
+            "value": "portsmouth",
+            "label": "Portsmouth"
+        },
+        {
+            "value": "providence",
+            "label": "Providence"
+        },
+        {
+            "value": "south kingstown",
+            "label": "South Kingstown"
+        },
+        {
+            "value": "tiverton",
+            "label": "Tiverton"
+        },
+        {
+            "value": "warren",
+            "label": "Warren"
+        },
+        {
+            "value": "warwick",
+            "label": "Warwick"
+        },
+        {
+            "value": "westerly",
+            "label": "Westerly"
+        },
+        {
+            "value": "wickford",
+            "label": "Wickford"
+        },
+        {
+            "value": "woonsocket",
+            "label": "Woonsocket"
+        }
+    ],
+    "SC": [
+        {
+            "value": "abbeville",
+            "label": "Abbeville"
+        },
+        {
+            "value": "aiken",
+            "label": "Aiken"
+        },
+        {
+            "value": "anderson",
+            "label": "Anderson"
+        },
+        {
+            "value": "beaufort",
+            "label": "Beaufort"
+        },
+        {
+            "value": "camden",
+            "label": "Camden"
+        },
+        {
+            "value": "charleston",
+            "label": "Charleston"
+        },
+        {
+            "value": "columbia",
+            "label": "Columbia"
+        },
+        {
+            "value": "darlington",
+            "label": "Darlington"
+        },
+        {
+            "value": "florence",
+            "label": "Florence"
+        },
+        {
+            "value": "gaffney",
+            "label": "Gaffney"
+        },
+        {
+            "value": "georgetown",
+            "label": "Georgetown"
+        },
+        {
+            "value": "greenville",
+            "label": "Greenville"
+        },
+        {
+            "value": "greenwood",
+            "label": "Greenwood"
+        },
+        {
+            "value": "hartsville",
+            "label": "Hartsville"
+        },
+        {
+            "value": "lancaster",
+            "label": "Lancaster"
+        },
+        {
+            "value": "mount pleasant",
+            "label": "Mount Pleasant"
+        },
+        {
+            "value": "myrtle beach",
+            "label": "Myrtle Beach"
+        },
+        {
+            "value": "orangeburg",
+            "label": "Orangeburg"
+        },
+        {
+            "value": "rock hill",
+            "label": "Rock Hill"
+        },
+        {
+            "value": "spartanburg",
+            "label": "Spartanburg"
+        },
+        {
+            "value": "sumter",
+            "label": "Sumter"
+        },
+        {
+            "value": "union",
+            "label": "Union"
+        }
+    ],
+    "SD": [
+        {
+            "value": "aberdeen",
+            "label": "Aberdeen"
+        },
+        {
+            "value": "belle fourche",
+            "label": "Belle Fourche"
+        },
+        {
+            "value": "brookings",
+            "label": "Brookings"
+        },
+        {
+            "value": "canton",
+            "label": "Canton"
+        },
+        {
+            "value": "custer",
+            "label": "Custer"
+        },
+        {
+            "value": "de smet",
+            "label": "De Smet"
+        },
+        {
+            "value": "deadwood",
+            "label": "Deadwood"
+        },
+        {
+            "value": "hot springs",
+            "label": "Hot Springs"
+        },
+        {
+            "value": "huron",
+            "label": "Huron"
+        },
+        {
+            "value": "lead",
+            "label": "Lead"
+        },
+        {
+            "value": "madison",
+            "label": "Madison"
+        },
+        {
+            "value": "milbank",
+            "label": "Milbank"
+        },
+        {
+            "value": "mitchell",
+            "label": "Mitchell"
+        },
+        {
+            "value": "mobridge",
+            "label": "Mobridge"
+        },
+        {
+            "value": "pierre",
+            "label": "Pierre"
+        },
+        {
+            "value": "rapid city",
+            "label": "Rapid City"
+        },
+        {
+            "value": "sioux falls",
+            "label": "Sioux Falls"
+        },
+        {
+            "value": "spearfish",
+            "label": "Spearfish"
+        },
+        {
+            "value": "sturgis",
+            "label": "Sturgis"
+        },
+        {
+            "value": "vermillion",
+            "label": "Vermillion"
+        },
+        {
+            "value": "watertown",
+            "label": "Watertown"
+        },
+        {
+            "value": "yankton",
+            "label": "Yankton"
+        }
+    ],
+    "TN": [
+        {
+            "value": "alcoa",
+            "label": "Alcoa"
+        },
+        {
+            "value": "athens",
+            "label": "Athens"
+        },
+        {
+            "value": "chattanooga",
+            "label": "Chattanooga"
+        },
+        {
+            "value": "clarksville",
+            "label": "Clarksville"
+        },
+        {
+            "value": "cleveland",
+            "label": "Cleveland"
+        },
+        {
+            "value": "columbia",
+            "label": "Columbia"
+        },
+        {
+            "value": "cookeville",
+            "label": "Cookeville"
+        },
+        {
+            "value": "dayton",
+            "label": "Dayton"
+        },
+        {
+            "value": "elizabethton",
+            "label": "Elizabethton"
+        },
+        {
+            "value": "franklin",
+            "label": "Franklin"
+        },
+        {
+            "value": "gallatin",
+            "label": "Gallatin"
+        },
+        {
+            "value": "gatlinburg",
+            "label": "Gatlinburg"
+        },
+        {
+            "value": "greeneville",
+            "label": "Greeneville"
+        },
+        {
+            "value": "jackson",
+            "label": "Jackson"
+        },
+        {
+            "value": "johnson city",
+            "label": "Johnson City"
+        },
+        {
+            "value": "jonesborough",
+            "label": "Jonesborough"
+        },
+        {
+            "value": "kingsport",
+            "label": "Kingsport"
+        },
+        {
+            "value": "knoxville",
+            "label": "Knoxville"
+        },
+        {
+            "value": "lebanon",
+            "label": "Lebanon"
+        },
+        {
+            "value": "maryville",
+            "label": "Maryville"
+        },
+        {
+            "value": "memphis",
+            "label": "Memphis"
+        },
+        {
+            "value": "morristown",
+            "label": "Morristown"
+        },
+        {
+            "value": "murfreesboro",
+            "label": "Murfreesboro"
+        },
+        {
+            "value": "nashville",
+            "label": "Nashville"
+        },
+        {
+            "value": "norris",
+            "label": "Norris"
+        },
+        {
+            "value": "oak ridge",
+            "label": "Oak Ridge"
+        },
+        {
+            "value": "shelbyville",
+            "label": "Shelbyville"
+        },
+        {
+            "value": "tullahoma",
+            "label": "Tullahoma"
+        }
+    ],
+    "TX": [
+        {
+            "value": "abilene",
+            "label": "Abilene"
+        },
+        {
+            "value": "alpine",
+            "label": "Alpine"
+        },
+        {
+            "value": "amarillo",
+            "label": "Amarillo"
+        },
+        {
+            "value": "arlington",
+            "label": "Arlington"
+        },
+        {
+            "value": "austin",
+            "label": "Austin"
+        },
+        {
+            "value": "baytown",
+            "label": "Baytown"
+        },
+        {
+            "value": "beaumont",
+            "label": "Beaumont"
+        },
+        {
+            "value": "big spring",
+            "label": "Big Spring"
+        },
+        {
+            "value": "borger",
+            "label": "Borger"
+        },
+        {
+            "value": "brownsville",
+            "label": "Brownsville"
+        },
+        {
+            "value": "bryan",
+            "label": "Bryan"
+        },
+        {
+            "value": "canyon",
+            "label": "Canyon"
+        },
+        {
+            "value": "cleburne",
+            "label": "Cleburne"
+        },
+        {
+            "value": "college station",
+            "label": "College Station"
+        },
+        {
+            "value": "corpus christi",
+            "label": "Corpus Christi"
+        },
+        {
+            "value": "crystal city",
+            "label": "Crystal City"
+        },
+        {
+            "value": "dallas",
+            "label": "Dallas"
+        },
+        {
+            "value": "del rio",
+            "label": "Del Rio"
+        },
+        {
+            "value": "denison",
+            "label": "Denison"
+        },
+        {
+            "value": "denton",
+            "label": "Denton"
+        },
+        {
+            "value": "eagle pass",
+            "label": "Eagle Pass"
+        },
+        {
+            "value": "edinburg",
+            "label": "Edinburg"
+        },
+        {
+            "value": "el paso",
+            "label": "El Paso"
+        },
+        {
+            "value": "fort worth",
+            "label": "Fort Worth"
+        },
+        {
+            "value": "freeport",
+            "label": "Freeport"
+        },
+        {
+            "value": "galveston",
+            "label": "Galveston"
+        },
+        {
+            "value": "garland",
+            "label": "Garland"
+        },
+        {
+            "value": "goliad",
+            "label": "Goliad"
+        },
+        {
+            "value": "greenville",
+            "label": "Greenville"
+        },
+        {
+            "value": "harlingen",
+            "label": "Harlingen"
+        },
+        {
+            "value": "houston",
+            "label": "Houston"
+        },
+        {
+            "value": "huntsville",
+            "label": "Huntsville"
+        },
+        {
+            "value": "irving",
+            "label": "Irving"
+        },
+        {
+            "value": "johnson city",
+            "label": "Johnson City"
+        },
+        {
+            "value": "kilgore",
+            "label": "Kilgore"
+        },
+        {
+            "value": "killeen",
+            "label": "Killeen"
+        },
+        {
+            "value": "kingsville",
+            "label": "Kingsville"
+        },
+        {
+            "value": "laredo",
+            "label": "Laredo"
+        },
+        {
+            "value": "longview",
+            "label": "Longview"
+        },
+        {
+            "value": "lubbock",
+            "label": "Lubbock"
+        },
+        {
+            "value": "lufkin",
+            "label": "Lufkin"
+        },
+        {
+            "value": "marshall",
+            "label": "Marshall"
+        },
+        {
+            "value": "mcallen",
+            "label": "Mcallen"
+        },
+        {
+            "value": "mckinney",
+            "label": "Mckinney"
+        },
+        {
+            "value": "mesquite",
+            "label": "Mesquite"
+        },
+        {
+            "value": "midland",
+            "label": "Midland"
+        },
+        {
+            "value": "mission",
+            "label": "Mission"
+        },
+        {
+            "value": "nacogdoches",
+            "label": "Nacogdoches"
+        },
+        {
+            "value": "new braunfels",
+            "label": "New Braunfels"
+        },
+        {
+            "value": "odessa",
+            "label": "Odessa"
+        },
+        {
+            "value": "orange",
+            "label": "Orange"
+        },
+        {
+            "value": "pampa",
+            "label": "Pampa"
+        },
+        {
+            "value": "paris",
+            "label": "Paris"
+        },
+        {
+            "value": "pasadena",
+            "label": "Pasadena"
+        },
+        {
+            "value": "pecos",
+            "label": "Pecos"
+        },
+        {
+            "value": "pharr",
+            "label": "Pharr"
+        },
+        {
+            "value": "plainview",
+            "label": "Plainview"
+        },
+        {
+            "value": "plano",
+            "label": "Plano"
+        },
+        {
+            "value": "port arthur",
+            "label": "Port Arthur"
+        },
+        {
+            "value": "port lavaca",
+            "label": "Port Lavaca"
+        },
+        {
+            "value": "richardson",
+            "label": "Richardson"
+        },
+        {
+            "value": "san angelo",
+            "label": "San Angelo"
+        },
+        {
+            "value": "san antonio",
+            "label": "San Antonio"
+        },
+        {
+            "value": "san felipe",
+            "label": "San Felipe"
+        },
+        {
+            "value": "san marcos",
+            "label": "San Marcos"
+        },
+        {
+            "value": "sherman",
+            "label": "Sherman"
+        },
+        {
+            "value": "sweetwater",
+            "label": "Sweetwater"
+        },
+        {
+            "value": "temple",
+            "label": "Temple"
+        },
+        {
+            "value": "texarkana",
+            "label": "Texarkana"
+        },
+        {
+            "value": "texas city",
+            "label": "Texas City"
+        },
+        {
+            "value": "tyler",
+            "label": "Tyler"
+        },
+        {
+            "value": "uvalde",
+            "label": "Uvalde"
+        },
+        {
+            "value": "victoria",
+            "label": "Victoria"
+        },
+        {
+            "value": "waco",
+            "label": "Waco"
+        },
+        {
+            "value": "weatherford",
+            "label": "Weatherford"
+        },
+        {
+            "value": "wichita falls",
+            "label": "Wichita Falls"
+        },
+        {
+            "value": "ysleta",
+            "label": "Ysleta"
+        }
+    ],
+    "UT": [
+        {
+            "value": "alta",
+            "label": "Alta"
+        },
+        {
+            "value": "american fork",
+            "label": "American Fork"
+        },
+        {
+            "value": "bountiful",
+            "label": "Bountiful"
+        },
+        {
+            "value": "brigham city",
+            "label": "Brigham City"
+        },
+        {
+            "value": "cedar city",
+            "label": "Cedar City"
+        },
+        {
+            "value": "clearfield",
+            "label": "Clearfield"
+        },
+        {
+            "value": "delta",
+            "label": "Delta"
+        },
+        {
+            "value": "fillmore",
+            "label": "Fillmore"
+        },
+        {
+            "value": "green river",
+            "label": "Green River"
+        },
+        {
+            "value": "heber city",
+            "label": "Heber City"
+        },
+        {
+            "value": "kanab",
+            "label": "Kanab"
+        },
+        {
+            "value": "layton",
+            "label": "Layton"
+        },
+        {
+            "value": "lehi",
+            "label": "Lehi"
+        },
+        {
+            "value": "logan",
+            "label": "Logan"
+        },
+        {
+            "value": "manti",
+            "label": "Manti"
+        },
+        {
+            "value": "moab",
+            "label": "Moab"
+        },
+        {
+            "value": "monticello",
+            "label": "Monticello"
+        },
+        {
+            "value": "murray",
+            "label": "Murray"
+        },
+        {
+            "value": "nephi",
+            "label": "Nephi"
+        },
+        {
+            "value": "ogden",
+            "label": "Ogden"
+        },
+        {
+            "value": "orderville",
+            "label": "Orderville"
+        },
+        {
+            "value": "orem",
+            "label": "Orem"
+        },
+        {
+            "value": "panguitch",
+            "label": "Panguitch"
+        },
+        {
+            "value": "park city",
+            "label": "Park City"
+        },
+        {
+            "value": "payson",
+            "label": "Payson"
+        },
+        {
+            "value": "price",
+            "label": "Price"
+        },
+        {
+            "value": "provo",
+            "label": "Provo"
+        },
+        {
+            "value": "saint george",
+            "label": "Saint George"
+        },
+        {
+            "value": "salt lake city",
+            "label": "Salt Lake City"
+        },
+        {
+            "value": "spanish fork",
+            "label": "Spanish Fork"
+        },
+        {
+            "value": "springville",
+            "label": "Springville"
+        },
+        {
+            "value": "tooele",
+            "label": "Tooele"
+        },
+        {
+            "value": "vernal",
+            "label": "Vernal"
+        }
+    ],
+    "VT": [
+        {
+            "value": "barre",
+            "label": "Barre"
+        },
+        {
+            "value": "bellows falls",
+            "label": "Bellows Falls"
+        },
+        {
+            "value": "bennington",
+            "label": "Bennington"
+        },
+        {
+            "value": "brattleboro",
+            "label": "Brattleboro"
+        },
+        {
+            "value": "burlington",
+            "label": "Burlington"
+        },
+        {
+            "value": "essex",
+            "label": "Essex"
+        },
+        {
+            "value": "manchester",
+            "label": "Manchester"
+        },
+        {
+            "value": "middlebury",
+            "label": "Middlebury"
+        },
+        {
+            "value": "montpelier",
+            "label": "Montpelier"
+        },
+        {
+            "value": "newport",
+            "label": "Newport"
+        },
+        {
+            "value": "plymouth",
+            "label": "Plymouth"
+        },
+        {
+            "value": "rutland",
+            "label": "Rutland"
+        },
+        {
+            "value": "saint albans",
+            "label": "Saint Albans"
+        },
+        {
+            "value": "saint johnsbury",
+            "label": "Saint Johnsbury"
+        },
+        {
+            "value": "sharon",
+            "label": "Sharon"
+        },
+        {
+            "value": "winooski",
+            "label": "Winooski"
+        }
+    ],
+    "VA": [
+        {
+            "value": "abingdon",
+            "label": "Abingdon"
+        },
+        {
+            "value": "alexandria",
+            "label": "Alexandria"
+        },
+        {
+            "value": "bristol",
+            "label": "Bristol"
+        },
+        {
+            "value": "charlottesville",
+            "label": "Charlottesville"
+        },
+        {
+            "value": "chesapeake",
+            "label": "Chesapeake"
+        },
+        {
+            "value": "danville",
+            "label": "Danville"
+        },
+        {
+            "value": "fairfax",
+            "label": "Fairfax"
+        },
+        {
+            "value": "falls church",
+            "label": "Falls Church"
+        },
+        {
+            "value": "fredericksburg",
+            "label": "Fredericksburg"
+        },
+        {
+            "value": "hampton",
+            "label": "Hampton"
+        },
+        {
+            "value": "hanover",
+            "label": "Hanover"
+        },
+        {
+            "value": "hopewell",
+            "label": "Hopewell"
+        },
+        {
+            "value": "lexington",
+            "label": "Lexington"
+        },
+        {
+            "value": "lynchburg",
+            "label": "Lynchburg"
+        },
+        {
+            "value": "manassas",
+            "label": "Manassas"
+        },
+        {
+            "value": "martinsville",
+            "label": "Martinsville"
+        },
+        {
+            "value": "new market",
+            "label": "New Market"
+        },
+        {
+            "value": "newport news",
+            "label": "Newport News"
+        },
+        {
+            "value": "norfolk",
+            "label": "Norfolk"
+        },
+        {
+            "value": "petersburg",
+            "label": "Petersburg"
+        },
+        {
+            "value": "portsmouth",
+            "label": "Portsmouth"
+        },
+        {
+            "value": "reston",
+            "label": "Reston"
+        },
+        {
+            "value": "richmond",
+            "label": "Richmond"
+        },
+        {
+            "value": "roanoke",
+            "label": "Roanoke"
+        },
+        {
+            "value": "staunton",
+            "label": "Staunton"
+        },
+        {
+            "value": "suffolk",
+            "label": "Suffolk"
+        },
+        {
+            "value": "virginia beach",
+            "label": "Virginia Beach"
+        },
+        {
+            "value": "waynesboro",
+            "label": "Waynesboro"
+        },
+        {
+            "value": "williamsburg",
+            "label": "Williamsburg"
+        },
+        {
+            "value": "winchester",
+            "label": "Winchester"
+        }
+    ],
+    "WA": [
+        {
+            "value": "aberdeen",
+            "label": "Aberdeen"
+        },
+        {
+            "value": "anacortes",
+            "label": "Anacortes"
+        },
+        {
+            "value": "auburn",
+            "label": "Auburn"
+        },
+        {
+            "value": "bellevue",
+            "label": "Bellevue"
+        },
+        {
+            "value": "bellingham",
+            "label": "Bellingham"
+        },
+        {
+            "value": "bremerton",
+            "label": "Bremerton"
+        },
+        {
+            "value": "centralia",
+            "label": "Centralia"
+        },
+        {
+            "value": "coulee dam",
+            "label": "Coulee Dam"
+        },
+        {
+            "value": "coupeville",
+            "label": "Coupeville"
+        },
+        {
+            "value": "ellensburg",
+            "label": "Ellensburg"
+        },
+        {
+            "value": "ephrata",
+            "label": "Ephrata"
+        },
+        {
+            "value": "everett",
+            "label": "Everett"
+        },
+        {
+            "value": "hoquiam",
+            "label": "Hoquiam"
+        },
+        {
+            "value": "kelso",
+            "label": "Kelso"
+        },
+        {
+            "value": "kennewick",
+            "label": "Kennewick"
+        },
+        {
+            "value": "longview",
+            "label": "Longview"
+        },
+        {
+            "value": "moses lake",
+            "label": "Moses Lake"
+        },
+        {
+            "value": "oak harbor",
+            "label": "Oak Harbor"
+        },
+        {
+            "value": "olympia",
+            "label": "Olympia"
+        },
+        {
+            "value": "pasco",
+            "label": "Pasco"
+        },
+        {
+            "value": "point roberts",
+            "label": "Point Roberts"
+        },
+        {
+            "value": "port angeles",
+            "label": "Port Angeles"
+        },
+        {
+            "value": "pullman",
+            "label": "Pullman"
+        },
+        {
+            "value": "puyallup",
+            "label": "Puyallup"
+        },
+        {
+            "value": "redmond",
+            "label": "Redmond"
+        },
+        {
+            "value": "renton",
+            "label": "Renton"
+        },
+        {
+            "value": "richland",
+            "label": "Richland"
+        },
+        {
+            "value": "seattle",
+            "label": "Seattle"
+        },
+        {
+            "value": "spokane",
+            "label": "Spokane"
+        },
+        {
+            "value": "tacoma",
+            "label": "Tacoma"
+        },
+        {
+            "value": "vancouver",
+            "label": "Vancouver"
+        },
+        {
+            "value": "walla walla",
+            "label": "Walla Walla"
+        },
+        {
+            "value": "wenatchee",
+            "label": "Wenatchee"
+        },
+        {
+            "value": "yakima",
+            "label": "Yakima"
+        }
+    ],
+    "WV": [
+        {
+            "value": "bath",
+            "label": "Bath"
+        },
+        {
+            "value": "beckley",
+            "label": "Beckley"
+        },
+        {
+            "value": "bluefield",
+            "label": "Bluefield"
+        },
+        {
+            "value": "buckhannon",
+            "label": "Buckhannon"
+        },
+        {
+            "value": "charles town",
+            "label": "Charles Town"
+        },
+        {
+            "value": "charleston",
+            "label": "Charleston"
+        },
+        {
+            "value": "clarksburg",
+            "label": "Clarksburg"
+        },
+        {
+            "value": "elkins",
+            "label": "Elkins"
+        },
+        {
+            "value": "fairmont",
+            "label": "Fairmont"
+        },
+        {
+            "value": "grafton",
+            "label": "Grafton"
+        },
+        {
+            "value": "harpers ferry",
+            "label": "Harpers Ferry"
+        },
+        {
+            "value": "hillsboro",
+            "label": "Hillsboro"
+        },
+        {
+            "value": "hinton",
+            "label": "Hinton"
+        },
+        {
+            "value": "huntington",
+            "label": "Huntington"
+        },
+        {
+            "value": "keyser",
+            "label": "Keyser"
+        },
+        {
+            "value": "lewisburg",
+            "label": "Lewisburg"
+        },
+        {
+            "value": "logan",
+            "label": "Logan"
+        },
+        {
+            "value": "martinsburg",
+            "label": "Martinsburg"
+        },
+        {
+            "value": "morgantown",
+            "label": "Morgantown"
+        },
+        {
+            "value": "moundsville",
+            "label": "Moundsville"
+        },
+        {
+            "value": "new martinsville",
+            "label": "New Martinsville"
+        },
+        {
+            "value": "parkersburg",
+            "label": "Parkersburg"
+        },
+        {
+            "value": "philippi",
+            "label": "Philippi"
+        },
+        {
+            "value": "point pleasant",
+            "label": "Point Pleasant"
+        },
+        {
+            "value": "princeton",
+            "label": "Princeton"
+        },
+        {
+            "value": "romney",
+            "label": "Romney"
+        },
+        {
+            "value": "shepherdstown",
+            "label": "Shepherdstown"
+        },
+        {
+            "value": "south charleston",
+            "label": "South Charleston"
+        },
+        {
+            "value": "summersville",
+            "label": "Summersville"
+        },
+        {
+            "value": "weirton",
+            "label": "Weirton"
+        },
+        {
+            "value": "welch",
+            "label": "Welch"
+        },
+        {
+            "value": "wellsburg",
+            "label": "Wellsburg"
+        },
+        {
+            "value": "weston",
+            "label": "Weston"
+        },
+        {
+            "value": "wheeling",
+            "label": "Wheeling"
+        },
+        {
+            "value": "white sulphur springs",
+            "label": "White Sulphur Springs"
+        },
+        {
+            "value": "williamson",
+            "label": "Williamson"
+        }
+    ],
+    "WI": [
+        {
+            "value": "appleton",
+            "label": "Appleton"
+        },
+        {
+            "value": "ashland",
+            "label": "Ashland"
+        },
+        {
+            "value": "baraboo",
+            "label": "Baraboo"
+        },
+        {
+            "value": "belmont",
+            "label": "Belmont"
+        },
+        {
+            "value": "beloit",
+            "label": "Beloit"
+        },
+        {
+            "value": "eau claire",
+            "label": "Eau Claire"
+        },
+        {
+            "value": "fond du lac",
+            "label": "Fond Du Lac"
+        },
+        {
+            "value": "green bay",
+            "label": "Green Bay"
+        },
+        {
+            "value": "hayward",
+            "label": "Hayward"
+        },
+        {
+            "value": "janesville",
+            "label": "Janesville"
+        },
+        {
+            "value": "kenosha",
+            "label": "Kenosha"
+        },
+        {
+            "value": "la crosse",
+            "label": "La Crosse"
+        },
+        {
+            "value": "lake geneva",
+            "label": "Lake Geneva"
+        },
+        {
+            "value": "madison",
+            "label": "Madison"
+        },
+        {
+            "value": "manitowoc",
+            "label": "Manitowoc"
+        },
+        {
+            "value": "marinette",
+            "label": "Marinette"
+        },
+        {
+            "value": "menasha",
+            "label": "Menasha"
+        },
+        {
+            "value": "milwaukee",
+            "label": "Milwaukee"
+        },
+        {
+            "value": "neenah",
+            "label": "Neenah"
+        },
+        {
+            "value": "new glarus",
+            "label": "New Glarus"
+        },
+        {
+            "value": "oconto",
+            "label": "Oconto"
+        },
+        {
+            "value": "oshkosh",
+            "label": "Oshkosh"
+        },
+        {
+            "value": "peshtigo",
+            "label": "Peshtigo"
+        },
+        {
+            "value": "portage",
+            "label": "Portage"
+        },
+        {
+            "value": "prairie du chien",
+            "label": "Prairie Du Chien"
+        },
+        {
+            "value": "racine",
+            "label": "Racine"
+        },
+        {
+            "value": "rhinelander",
+            "label": "Rhinelander"
+        },
+        {
+            "value": "ripon",
+            "label": "Ripon"
+        },
+        {
+            "value": "sheboygan",
+            "label": "Sheboygan"
+        },
+        {
+            "value": "spring green",
+            "label": "Spring Green"
+        },
+        {
+            "value": "stevens point",
+            "label": "Stevens Point"
+        },
+        {
+            "value": "sturgeon bay",
+            "label": "Sturgeon Bay"
+        },
+        {
+            "value": "superior",
+            "label": "Superior"
+        },
+        {
+            "value": "waukesha",
+            "label": "Waukesha"
+        },
+        {
+            "value": "wausau",
+            "label": "Wausau"
+        },
+        {
+            "value": "wauwatosa",
+            "label": "Wauwatosa"
+        },
+        {
+            "value": "west allis",
+            "label": "West Allis"
+        },
+        {
+            "value": "west bend",
+            "label": "West Bend"
+        },
+        {
+            "value": "wisconsin dells",
+            "label": "Wisconsin Dells"
+        }
+    ],
+    "WY": [
+        {
+            "value": "buffalo",
+            "label": "Buffalo"
+        },
+        {
+            "value": "casper",
+            "label": "Casper"
+        },
+        {
+            "value": "cheyenne",
+            "label": "Cheyenne"
+        },
+        {
+            "value": "cody",
+            "label": "Cody"
+        },
+        {
+            "value": "douglas",
+            "label": "Douglas"
+        },
+        {
+            "value": "evanston",
+            "label": "Evanston"
+        },
+        {
+            "value": "gillette",
+            "label": "Gillette"
+        },
+        {
+            "value": "green river",
+            "label": "Green River"
+        },
+        {
+            "value": "jackson",
+            "label": "Jackson"
+        },
+        {
+            "value": "lander",
+            "label": "Lander"
+        },
+        {
+            "value": "laramie",
+            "label": "Laramie"
+        },
+        {
+            "value": "newcastle",
+            "label": "Newcastle"
+        },
+        {
+            "value": "powell",
+            "label": "Powell"
+        },
+        {
+            "value": "rawlins",
+            "label": "Rawlins"
+        },
+        {
+            "value": "riverton",
+            "label": "Riverton"
+        },
+        {
+            "value": "rock springs",
+            "label": "Rock Springs"
+        },
+        {
+            "value": "sheridan",
+            "label": "Sheridan"
+        },
+        {
+            "value": "ten sleep",
+            "label": "Ten Sleep"
+        },
+        {
+            "value": "thermopolis",
+            "label": "Thermopolis"
+        },
+        {
+            "value": "torrington",
+            "label": "Torrington"
+        },
+        {
+            "value": "worland",
+            "label": "Worland"
+        }
+    ],
+    "DC": [
+        {
+            "label": "Washington D.C.",
+            "value": "washington d.c."
+        }
+    ],
+    "AS": [
+        { "label": "Pago Pago", "value": "pago pago" },
+        { "label": "Aua", "value": "aua" },
+        { "label": "Nu'uuli", "value": "nu'uuli" },
+        { "label": "Fagatogo", "value": "fagatogo" },
+        { "label": "Mata'utia", "value": "mata'utia" },
+        { "label": "Vaitogi", "value": "vaitogi" },
+        { "label": "Faga'alu", "value": "faga'alu" },
+        { "label": "Amouli", "value": "amouli" },
+        { "label": "Tula", "value": "tula" },
+        { "label": "Leone", "value": "leone" }
+    ],
+    "GU": [
+        { "label": "Hagåtña", "value": "hagåtña" },
+        { "label": "Dededo", "value": "dededo" },
+        { "label": "Tamuning", "value": "tamuning" },
+        { "label": "Mangilao", "value": "mangilao" },
+        { "label": "Barrigada", "value": "barrigada" },
+        { "label": "Yigo", "value": "yigo" },
+        { "label": "Sinajana", "value": "sinajana" },
+        { "label": "Agana Heights", "value": "agana heights" },
+        { "label": "Mongmong-Toto-Maite", "value": "mongmong-toto-maite" },
+        { "label": "Piti", "value": "piti" },
+        { "label": "Chalan Pago-Ordot", "value": "chalan pago-ordot" },
+        { "label": "Asan-Maina", "value": "asan-maina" },
+        { "label": "Talofofo", "value": "talofofo" },
+        { "label": "Santa Rita", "value": "santa rita" }
+    ],
+    "MP" : [
+        { "label": "Saipan", "value": "saipan" },
+        { "label": "Garapan", "value": "garapan" },
+        { "label": "Capitol Hill", "value": "capitol hill" },
+        { "label": "Chalan Kanoa", "value": "chalan kanoa" },
+        { "label": "Kagman", "value": "kagman" },
+        { "label": "San Antonio", "value": "san antonio" },
+        { "label": "Charan Kanoa", "value": "charan kanoa" },
+        { "label": "Dandan", "value": "dandan" },
+        { "label": "Tanapag", "value": "tanapag" },
+        { "label": "San Roque", "value": "san roque" },
+        { "label": "Susupe", "value": "susupe" },
+        { "label": "Laulau Bay", "value": "laulau bay" }
+    ],
+    "PR" : [
+        { "label": "San Juan", "value": "san juan" },
+        { "label": "Ponce", "value": "ponce" },
+        { "label": "Bayamón", "value": "bayamon" },
+        { "label": "Caguas", "value": "caguas" },
+        { "label": "Mayagüez", "value": "mayaguez" },
+        { "label": "Arecibo", "value": "arecibo" },
+        { "label": "Carolina", "value": "carolina" },
+        { "label": "Fajardo", "value": "fajardo" },
+        { "label": "Santurce", "value": "santurce" },
+        { "label": "Toa Baja", "value": "toa baja" },
+        { "label": "Moca", "value": "moca" },
+        { "label": "Vega Baja", "value": "vega baja" },
+        { "label": "Aguadilla", "value": "aguadilla" },
+        { "label": "Guayama", "value": "guayama" },
+        { "label": "San Germán", "value": "san german" },
+        { "label": "Cayey", "value": "cayey" },
+        { "label": "Rincón", "value": "rincon" },
+        { "label": "Loiza", "value": "loiza" },
+        { "label": "Barranquitas", "value": "barranquitas" },
+        { "label": "Isabela", "value": "isabela" },
+        { "label": "Salinas", "value": "salinas" },
+        { "label": "Humacao", "value": "humacao" },
+        { "label": "Aguada", "value": "aguada" },
+        { "label": "San Sebastián", "value": "san sebastian" }
+    ],
+    "VI" : [
+        { "label": "Charlotte Amalie", "value": "charlotte amalie" },
+        { "label": "Christiansted", "value": "christiansted" },
+        { "label": "Frederiksted", "value": "frederiksted" },
+        { "label": "Cruz Bay", "value": "cruz bay" },
+        { "label": "Coral Bay", "value": "coral bay" },
+        { "label": "Contant", "value": "contant" },
+        { "label": "Magens Bay", "value": "magens bay" },
+        { "label": "Red Hook", "value": "red hook" },
+        { "label": "Charlotte Amalie West", "value": "charlotte amalie west" },
+        { "label": "Sugar Mill", "value": "sugar mill" }
+    ],
+    "UM": [
+        { "label": "Wake Island", "value": "wake island" },
+        { "label": "Midway Atoll", "value": "midway atoll" },
+        { "label": "Johnston Atoll", "value": "johnston atoll" },
+        { "label": "Baker Island", "value": "baker island" },
+        { "label": "Howland Island", "value": "howland island" },
+        { "label": "Jarvis Island", "value": "jarvis island" },
+        { "label": "Kingman Reef", "value": "kingman reef" },
+        { "label": "Palmyra Atoll", "value": "palmyra atoll" }
+    ]
+}
